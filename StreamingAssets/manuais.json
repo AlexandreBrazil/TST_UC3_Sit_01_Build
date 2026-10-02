@@ -1,0 +1,119 @@
+{
+  "manuais": [
+    {
+      "id": "ligacao",
+      "slides": [
+        {
+          "imagem": "imagens/bomba/slide_1.png"
+        }
+      ]
+    },
+    {
+      "id": "configuracao",
+      "slides": [
+        {
+          "imagem": "imagens/bomba/slide_2.png"
+        },
+        {
+          "imagem": "imagens/bomba/slide_3.png"
+        },
+        {
+          "imagem": "imagens/bomba/slide_4.png"
+        }, 
+        {
+          "imagem": "imagens/bomba/slide_5.png"
+        },
+        {
+          "imagem": "imagens/bomba/slide_6.png"
+        },
+        {
+          "imagem": "imagens/bomba/slide_7.png"
+        }
+      ]
+    },
+    {
+      "id": "medicao",
+      "slides": [
+        {
+          "imagem": "imagens/bomba/slide_8.png"
+        }
+      ]
+    },
+    {
+      "id": "tempo_decorrido",
+      "slides": [
+        {
+          "imagem": "imagens/bomba/slide_9.png"
+        }
+      ]
+    },
+    {
+      "id": "desligar",
+      "slides": [
+        {
+          "imagem": "imagens/bomba/slide_10.png"
+        }
+      ]
+    },
+    {
+      "id": "ligacao_calibrador",
+      "slides": [
+        {
+          "imagem": "imagens/calibrador/slide_1.png"
+        } 
+      ]
+    },
+    {
+      "id": "medir_calibrador",
+      "slides": [
+        {
+          "imagem": "imagens/calibrador/slide_2.png"
+        }
+      ]
+    },
+    {
+      "id": "funcao_unica_calibrador",
+      "slides": [
+        {
+          "imagem": "imagens/calibrador/slide_3.png"
+        },
+        {
+          "imagem": "imagens/calibrador/slide_4.png"
+        },  
+        {
+          "imagem": "imagens/calibrador/slide_5.png"
+        }
+      ]
+    },
+    {
+      "id": "funcao_sequencial_calibrador",
+      "slides": [
+        {
+          "imagem": "imagens/calibrador/slide_6.png"
+        },
+        {
+          "imagem": "imagens/calibrador/slide_7.png"
+        }
+      ]
+    },
+    {
+      "id": "ligacao_termo",
+      "slides": [
+        {
+          "imagem": "imagens/termo/slide_1.png"
+        }
+      ]
+    },
+    {
+      "id": "desligar_termo",
+      "slides": [
+        {
+          "imagem": "imagens/termo/slide_2.png"
+        },  
+        {
+          "imagem": "imagens/termo/slide_3.png"
+        }
+      ]
+    }
+  ]
+}

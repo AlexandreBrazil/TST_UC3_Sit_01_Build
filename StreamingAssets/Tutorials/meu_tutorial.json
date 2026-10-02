@@ -1,0 +1,62 @@
+{
+  "id": "tutorial_01",
+  "defaultFadeDuration": 1.0,
+  "defaultDelay": 1.0,
+  "situations": [
+    {
+      "id": "situacao_01",
+      "slides": [
+        {
+          "background": "Tutorials/sit-01/01.png",
+          "fadeDuration": 0.8,
+          "delay": 1.2,
+          "orientationText": "Clique nos pontos destacados para continuar.",
+          "orientationRect": { "x": 0.05, "y": 0.75, "width": 0.4, "height": 0.18 },
+          "complementaryText": "Esta é uma mensagem complementar curta.",
+          "complementaryStyle": "short",
+          "complementaryRect": { "x": 0.55, "y": 0.75, "width": 0.4, "height": 0.18 },
+          "clickPoints": [
+            {
+              "id": "p1",
+              "x": 0.25,
+              "y": 0.45,
+              "spriteIdle": "Tutorials/points/idle.png",
+              "spriteClicked": "Tutorials/points/clicked.png"
+            },
+            {
+              "id": "p2",
+              "x": 0.65,
+              "y": 0.55,
+              "spriteIdle": "Tutorials/points/idle.png",
+              "spriteClicked": "Tutorials/points/clicked.png"
+            }
+          ]
+        },
+        {
+          "background": "Tutorials/sit-01/02.png",
+          "orientationText": "",
+          "orientationRect": { "x": 0.1, "y": 0.1, "width": 0.3, "height": 0.15 },
+          "complementaryText": "Mensagem mais longa que usa o fundo diferente.",
+          "complementaryStyle": "long",
+          "complementaryRect": { "x": 0.6, "y": 0.1, "width": 0.35, "height": 0.25 },
+          "clickPoints": []
+        }
+      ]
+    },
+    {
+      "id": "situacao_02",
+      "slides": [
+        {
+          "background": "backgrounds/final.png",
+          "orientationText": "Parabéns! Você concluiu o tutorial.",
+          "orientationRect": { "x": 0.25, "y": 0.4, "width": 0.5, "height": 0.2 },
+          "complementaryText": "",
+          "complementaryStyle": "short",
+          "complementaryRect": { "x": 0, "y": 0, "width": 0, "height": 0 },
+          "clickPoints": [],
+          "advanceAction": "OnTutorialFinished"
+        }
+      ]
+    }
+  ]
+}
