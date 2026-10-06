@@ -59,7 +59,7 @@
       "id": "ligacao_calibrador",
       "slides": [
         {
-          "imagem": "imagens/calibrador/slide_1.png"
+          "imagem": "imagens/Calibrador/slide_1.png"
         } 
       ]
     },
@@ -67,7 +67,7 @@
       "id": "medir_calibrador",
       "slides": [
         {
-          "imagem": "imagens/calibrador/slide_2.png"
+          "imagem": "imagens/Calibrador/slide_2.png"
         }
       ]
     },
@@ -75,13 +75,13 @@
       "id": "funcao_unica_calibrador",
       "slides": [
         {
-          "imagem": "imagens/calibrador/slide_3.png"
+          "imagem": "imagens/Calibrador/slide_3.png"
         },
         {
-          "imagem": "imagens/calibrador/slide_4.png"
+          "imagem": "imagens/Calibrador/slide_4.png"
         },  
         {
-          "imagem": "imagens/calibrador/slide_5.png"
+          "imagem": "imagens/Calibrador/slide_5.png"
         }
       ]
     },
@@ -89,10 +89,10 @@
       "id": "funcao_sequencial_calibrador",
       "slides": [
         {
-          "imagem": "imagens/calibrador/slide_6.png"
+          "imagem": "imagens/Calibrador/slide_6.png"
         },
         {
-          "imagem": "imagens/calibrador/slide_7.png"
+          "imagem": "imagens/Calibrador/slide_7.png"
         }
       ]
     },
@@ -100,7 +100,7 @@
       "id": "ligacao_termo",
       "slides": [
         {
-          "imagem": "imagens/termo/slide_1.png"
+          "imagem": "imagens/Termo/slide_1.png"
         }
       ]
     },
@@ -108,10 +108,10 @@
       "id": "desligar_termo",
       "slides": [
         {
-          "imagem": "imagens/termo/slide_2.png"
+          "imagem": "imagens/Termo/slide_2.png"
         },  
         {
-          "imagem": "imagens/termo/slide_3.png"
+          "imagem": "imagens/Termo/slide_3.png"
         }
       ]
     }
