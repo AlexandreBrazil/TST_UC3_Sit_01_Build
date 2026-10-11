@@ -8,61 +8,167 @@
             "slides": [
                 {
                     "background": "Tutorials/Sit-01/01.png",
-                    "fadeDuration": 0.800000011920929,
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 0.0,
+                        "height": 0.0
+                    },
+                    "fadeDuration": 1.1920929132713809e-8,
                     "delay": 1.2000000476837159,
-                    "orientationText": "Clique nos pontos destacados para continuar.",
+                    "orientationText": "Retire da caixa de isopor os amostradores fornecidos pelo laboratório de análises.",
                     "orientationRect": {
-                        "x": 0.05000000074505806,
-                        "y": 0.75,
-                        "width": 0.4000000059604645,
+                        "x": 0.15268893539905549,
+                        "y": 0.043828267604112628,
+                        "width": 0.699999988079071,
                         "height": 0.18000000715255738
                     },
-                    "complementaryText": "Esta é uma mensagem complementar curta.",
-                    "complementaryStyle": "short",
+                    "complementaryText": "",
+                    "complementaryStyle": "long",
                     "complementaryRect": {
-                        "x": 0.550000011920929,
-                        "y": 0.75,
+                        "x": 0.5348557829856873,
+                        "y": 0.7384615540504456,
                         "width": 0.4000000059604645,
                         "height": 0.18000000715255738
                     },
                     "clickPoints": [
                         {
                             "id": "p1",
-                            "x": 0.6115384697914124,
-                            "y": 0.6760683655738831,
+                            "x": 0.49642857909202578,
+                            "y": 0.5873016119003296,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-01/02.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 0.0,
+                        "height": 0.0
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Retire os amostradores fornecidos pelo laboratório de análises químicas de dentro da caixa de isopor. ",
+                    "orientationRect": {
+                        "x": 0.16641324758529664,
+                        "y": 0.049409665167331699,
+                        "width": 0.6600000262260437,
+                        "height": 0.15000000596046449
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "long",
+                    "complementaryRect": {
+                        "x": 0.018381057307124139,
+                        "y": 0.7118067741394043,
+                        "width": 0.3499999940395355,
+                        "height": 0.25
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.4982142746448517,
+                            "y": 0.5333333015441895,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-01/03.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 0.0,
+                        "height": 0.0
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.41880589723587038,
+                        "y": 0.8030804395675659,
+                        "width": 0.550000011920929,
+                        "height": 0.15000000596046449
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "long",
+                    "complementaryRect": {
+                        "x": 0.021399840712547303,
+                        "y": 0.7279070019721985,
+                        "width": 0.3499999940395355,
+                        "height": 0.25
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.7285714149475098,
+                            "y": 0.24761903285980225,
                             "spriteIdle": "Points/idle",
                             "spriteClicked": "Points/clicked"
                         },
                         {
                             "id": "p2",
-                            "x": 0.4000000059604645,
-                            "y": 0.5188034176826477,
+                            "x": 0.8142856955528259,
+                            "y": 0.37142854928970339,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        },
+                        {
+                            "id": "p3",
+                            "x": 0.8142856955528259,
+                            "y": 0.47301584482192995,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        },
+                        {
+                            "id": "p4",
+                            "x": 0.7482143044471741,
+                            "y": 0.48253965377807619,
                             "spriteIdle": "Points/idle",
                             "spriteClicked": "Points/clicked"
                         }
                     ],
+                    "nextPanelId": "",
                     "advanceAction": ""
                 },
                 {
-                    "background": "Tutorials/Sit-01/02.png",
+                    "background": "Tutorials/Sit-01/04.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 0.0,
+                        "height": 0.0
+                    },
                     "fadeDuration": -1.0,
                     "delay": -1.0,
-                    "orientationText": "",
+                    "orientationText": "Considere os seguintes amostradores e suas funções:\nTCA 207/14R – Amostrador representativo usado para ajuste da vazão  \nTCA 208/14R – Amostrador usado para coleta ",
                     "orientationRect": {
-                        "x": 0.10000000149011612,
-                        "y": 0.10000000149011612,
-                        "width": 0.30000001192092898,
-                        "height": 0.15000000596046449
+                        "x": 0.49961811304092409,
+                        "y": 0.6596766114234924,
+                        "width": 0.4300000071525574,
+                        "height": 0.30000001192092898
                     },
-                    "complementaryText": "Mensagem mais longa que usa o fundo diferente.",
+                    "complementaryText": "",
                     "complementaryStyle": "long",
                     "complementaryRect": {
-                        "x": 0.6000000238418579,
-                        "y": 0.10000000149011612,
+                        "x": 0.0556127205491066,
+                        "y": 0.024865834042429925,
                         "width": 0.3499999940395355,
                         "height": 0.25
                     },
                     "clickPoints": [],
+                    "nextPanelId": "",
                     "advanceAction": ""
                 }
             ]
@@ -71,26 +177,481 @@
             "id": "situacao_02",
             "slides": [
                 {
-                    "background": "Tutorials/Sit-01/02.png",
+                    "background": "Tutorials/Sit-02/01.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 0.0,
+                        "height": 0.0
+                    },
                     "fadeDuration": -1.0,
                     "delay": -1.0,
-                    "orientationText": "Parabéns! Você concluiu o tutorial.",
+                    "orientationText": "Rompa ambas as extremidades do tubo de vidro do amostrador representativo com o dispositivo de quebra. ",
                     "orientationRect": {
-                        "x": 0.25,
-                        "y": 0.4000000059604645,
+                        "x": 0.4193441867828369,
+                        "y": 0.8348591923713684,
                         "width": 0.5,
-                        "height": 0.20000000298023225
+                        "height": 0.14000000059604646
                     },
                     "complementaryText": "",
-                    "complementaryStyle": "short",
+                    "complementaryStyle": "long",
                     "complementaryRect": {
                         "x": 0.0,
                         "y": 0.0,
                         "width": 0.0,
                         "height": 0.0
                     },
-                    "clickPoints": [],
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.7272623181343079,
+                            "y": 0.3135283291339874,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
                     "advanceAction": "OnTutorialFinished"
+                },
+                {
+                    "background": "Tutorials/Sit-02/01.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Rompa ambas as extremidades do tubo de vidro do amostrador representativo com o dispositivo de quebra. ",
+                    "orientationRect": {
+                        "x": 0.29985088109970095,
+                        "y": 0.8422169089317322,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.019227467477321626,
+                        "y": 0.03248167410492897,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.6419104337692261,
+                            "y": 0.47806215286254885,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-02/01.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Rompa ambas as extremidades do tubo de vidro do amostrador representativo com o dispositivo de quebra. ",
+                    "orientationRect": {
+                        "x": 0.3028218150138855,
+                        "y": 0.8404563665390015,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.019227467477321626,
+                        "y": 0.03600279986858368,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.22954756021499635,
+                            "y": 0.46709322929382326,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-02/02.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                }
+            ]
+        },
+        {
+            "id": "situacao_03",
+            "slides": [
+                {
+                    "background": "Tutorials/Sit-03/01.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Conecte o tubo flexível com suporte para amostrador à tubulação de entrada de ar da bomba de amostragem. ",
+                    "orientationRect": {
+                        "x": 0.30665484070777895,
+                        "y": 0.809184193611145,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.028161698952317239,
+                        "y": 0.027199983596801759,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.556775689125061,
+                            "y": 0.29626166820526125,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-03/01.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Conecte o tubo flexível com suporte para amostrador à tubulação de entrada de ar da bomba de amostragem. ",
+                    "orientationRect": {
+                        "x": 0.30445292592048647,
+                        "y": 0.826164722442627,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.04162611812353134,
+                        "y": 0.05514705926179886,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.8082879185676575,
+                            "y": 0.6878057718276978,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-03/02.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                }
+            ]
+        },
+        {
+            "id": "situacao_04",
+            "slides": [
+                {
+                    "background": "Tutorials/Sit-04/01.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Conecte o amostrador representativo na outra extremidade do tubo. A seta desenhada no tubo amostrador deve ser conectada apontando na direção do fluxo de ar. ",
+                    "orientationRect": {
+                        "x": 0.32064753770828249,
+                        "y": 0.805245041847229,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.029130635783076288,
+                        "y": 0.03952392563223839,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.4136197566986084,
+                            "y": 0.4195612370967865,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-04/01.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Conecte o amostrador representativo na outra extremidade do tubo. A seta desenhada no tubo amostrador deve ser conectada apontando na direção do fluxo de ar. ",
+                    "orientationRect": {
+                        "x": 0.31074434518814089,
+                        "y": 0.8316535353660584,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.04299507290124893,
+                        "y": 0.03248167410492897,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.49280163645744326,
+                            "y": 0.5438756942749023,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-04/02.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                }
+            ]
+        },
+        {
+            "id": "situacao_05",
+            "slides": [
+                {
+                    "background": "Tutorials/Sit-05/01.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Conecte a outra extremidade do amostrador ao outro tubo flexível na extremidade que contém o adaptador. ",
+                    "orientationRect": {
+                        "x": 0.3166862726211548,
+                        "y": 0.8263718485832214,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.0321015864610672,
+                        "y": 0.034242238849401477,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.34266453981399538,
+                            "y": 0.36106032133102419,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-05/01.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Conecte a outra extremidade do amostrador ao outro tubo flexível na extremidade que contém o adaptador. ",
+                    "orientationRect": {
+                        "x": 0.31569594144821169,
+                        "y": 0.8439774513244629,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.038043487817049029,
+                        "y": 0.06065068766474724,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.30358776450157168,
+                            "y": 0.46709322929382326,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-05/02.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
                 }
             ]
         }
