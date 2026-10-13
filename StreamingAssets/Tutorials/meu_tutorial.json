@@ -19,10 +19,10 @@
                     "delay": 1.2000000476837159,
                     "orientationText": "Retire da caixa de isopor os amostradores fornecidos pelo laboratório de análises.",
                     "orientationRect": {
-                        "x": 0.15268893539905549,
-                        "y": 0.043828267604112628,
+                        "x": 0.1396075338125229,
+                        "y": 0.045617178082466128,
                         "width": 0.699999988079071,
-                        "height": 0.18000000715255738
+                        "height": 0.13169947266578675
                     },
                     "complementaryText": "",
                     "complementaryStyle": "long",
@@ -189,10 +189,10 @@
                     "delay": -1.0,
                     "orientationText": "Rompa ambas as extremidades do tubo de vidro do amostrador representativo com o dispositivo de quebra. ",
                     "orientationRect": {
-                        "x": 0.4193441867828369,
-                        "y": 0.8348591923713684,
-                        "width": 0.5,
-                        "height": 0.14000000059604646
+                        "x": 0.33280572295188906,
+                        "y": 0.7847697734832764,
+                        "width": 0.5865384340286255,
+                        "height": 0.15967798233032227
                     },
                     "complementaryText": "",
                     "complementaryStyle": "long",
@@ -227,10 +227,10 @@
                     "delay": -1.0,
                     "orientationText": "Rompa ambas as extremidades do tubo de vidro do amostrador representativo com o dispositivo de quebra. ",
                     "orientationRect": {
-                        "x": 0.29985088109970095,
-                        "y": 0.8422169089317322,
-                        "width": 0.6496000289916992,
-                        "height": 0.1378999948501587
+                        "x": 0.253562867641449,
+                        "y": 0.7849718332290649,
+                        "width": 0.6908566951751709,
+                        "height": 0.1647336483001709
                     },
                     "complementaryText": "",
                     "complementaryStyle": "short",
@@ -265,10 +265,10 @@
                     "delay": -1.0,
                     "orientationText": "Rompa ambas as extremidades do tubo de vidro do amostrador representativo com o dispositivo de quebra. ",
                     "orientationRect": {
-                        "x": 0.3028218150138855,
-                        "y": 0.8404563665390015,
-                        "width": 0.6496000289916992,
-                        "height": 0.1378999948501587
+                        "x": 0.23338979482650758,
+                        "y": 0.7814223766326904,
+                        "width": 0.7200382947921753,
+                        "height": 0.1611558198928833
                     },
                     "complementaryText": "",
                     "complementaryStyle": "short",
@@ -338,10 +338,10 @@
                     "delay": -1.0,
                     "orientationText": "Conecte o tubo flexível com suporte para amostrador à tubulação de entrada de ar da bomba de amostragem. ",
                     "orientationRect": {
-                        "x": 0.30665484070777895,
-                        "y": 0.809184193611145,
-                        "width": 0.6496000289916992,
-                        "height": 0.1378999948501587
+                        "x": 0.2422541230916977,
+                        "y": 0.7376278638839722,
+                        "width": 0.7140007019042969,
+                        "height": 0.17010033130645753
                     },
                     "complementaryText": "",
                     "complementaryStyle": "short",
@@ -376,10 +376,10 @@
                     "delay": -1.0,
                     "orientationText": "Conecte o tubo flexível com suporte para amostrador à tubulação de entrada de ar da bomba de amostragem. ",
                     "orientationRect": {
-                        "x": 0.30445292592048647,
-                        "y": 0.826164722442627,
-                        "width": 0.6496000289916992,
-                        "height": 0.1378999948501587
+                        "x": 0.2239520400762558,
+                        "y": 0.7653418183326721,
+                        "width": 0.7290946245193481,
+                        "height": 0.17188924551010133
                     },
                     "complementaryText": "",
                     "complementaryStyle": "short",
@@ -449,10 +449,10 @@
                     "delay": -1.0,
                     "orientationText": "Conecte o amostrador representativo na outra extremidade do tubo. A seta desenhada no tubo amostrador deve ser conectada apontando na direção do fluxo de ar. ",
                     "orientationRect": {
-                        "x": 0.32064753770828249,
-                        "y": 0.805245041847229,
-                        "width": 0.6496000289916992,
-                        "height": 0.1378999948501587
+                        "x": 0.22304019331932069,
+                        "y": 0.7730447053909302,
+                        "width": 0.7472074031829834,
+                        "height": 0.17010033130645753
                     },
                     "complementaryText": "",
                     "complementaryStyle": "short",
@@ -487,10 +487,10 @@
                     "delay": -1.0,
                     "orientationText": "Conecte o amostrador representativo na outra extremidade do tubo. A seta desenhada no tubo amostrador deve ser conectada apontando na direção do fluxo de ar. ",
                     "orientationRect": {
-                        "x": 0.31074434518814089,
-                        "y": 0.8316535353660584,
-                        "width": 0.6496000289916992,
-                        "height": 0.1378999948501587
+                        "x": 0.21313701570034028,
+                        "y": 0.7511526346206665,
+                        "width": 0.7441885471343994,
+                        "height": 0.1844116449356079
                     },
                     "complementaryText": "",
                     "complementaryStyle": "short",
@@ -560,10 +560,10 @@
                     "delay": -1.0,
                     "orientationText": "Conecte a outra extremidade do amostrador ao outro tubo flexível na extremidade que contém o adaptador. ",
                     "orientationRect": {
-                        "x": 0.3166862726211548,
-                        "y": 0.8263718485832214,
-                        "width": 0.6496000289916992,
-                        "height": 0.1378999948501587
+                        "x": 0.22411024570465089,
+                        "y": 0.770915687084198,
+                        "width": 0.7381510138511658,
+                        "height": 0.1611558198928833
                     },
                     "complementaryText": "",
                     "complementaryStyle": "short",
@@ -598,10 +598,10 @@
                     "delay": -1.0,
                     "orientationText": "Conecte a outra extremidade do amostrador ao outro tubo flexível na extremidade que contém o adaptador. ",
                     "orientationRect": {
-                        "x": 0.31569594144821169,
-                        "y": 0.8439774513244629,
-                        "width": 0.6496000289916992,
-                        "height": 0.1378999948501587
+                        "x": 0.22613869607448579,
+                        "y": 0.7903102040290833,
+                        "width": 0.741169810295105,
+                        "height": 0.1557890772819519
                     },
                     "complementaryText": "",
                     "complementaryStyle": "short",
@@ -879,10 +879,10 @@
                     "background": "Tutorials/Sit-07/02.png",
                     "foreground": "Tutorials/Sit-07/foreground/01.png",
                     "foregroundRect": {
-                        "x": 0.3250516951084137,
-                        "y": 0.33738818764686587,
-                        "width": 0.3700000047683716,
-                        "height": 0.33000001311302187
+                        "x": 0.32102665305137637,
+                        "y": 0.34633272886276247,
+                        "width": 0.38207510113716128,
+                        "height": 0.32463327050209048
                     },
                     "fadeDuration": -1.0,
                     "delay": -1.0,
@@ -909,9 +909,9 @@
                     "background": "Tutorials/Sit-07/02.png",
                     "foreground": "Tutorials/Sit-07/foreground/02.png",
                     "foregroundRect": {
-                        "x": 0.32893112301826479,
+                        "x": 0.32088103890419009,
                         "y": 0.3511449098587036,
-                        "width": 0.3700000047683716,
+                        "width": 0.3780500590801239,
                         "height": 0.3100000023841858
                     },
                     "fadeDuration": -1.0,
@@ -939,10 +939,10 @@
                     "background": "Tutorials/Sit-07/02.png",
                     "foreground": "Tutorials/Sit-07/foreground/03.png",
                     "foregroundRect": {
-                        "x": 0.31741949915885928,
-                        "y": 0.36270126700401308,
+                        "x": 0.3184257745742798,
+                        "y": 0.35375672578811648,
                         "width": 0.38999998569488528,
-                        "height": 0.30000001192092898
+                        "height": 0.31252235174179079
                     },
                     "fadeDuration": -1.0,
                     "delay": -1.0,
@@ -966,6 +966,876 @@
                     "advanceAction": ""
                 }
             ]
+        },
+        {
+            "id": "situacao_08",
+            "slides": [
+                {
+                    "background": "Tutorials/Sit-08/01.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Ligue o calibrador/aferidor de vazão, navegue até a função MEDIR e, em seguida, selecione a opção ÚNICA. \n ",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.35362452268600466,
+                            "y": 0.6635687947273254,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-08/02.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Ligue o calibrador/aferidor de vazão, navegue até a função MEDIR e, em seguida, selecione a opção ÚNICA. ",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.738382875919342,
+                            "y": 0.3921933174133301,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-08/02.png",
+                    "foreground": "Tutorials/Sit-08/foreground/01.png",
+                    "foregroundRect": {
+                        "x": 0.21779964864253999,
+                        "y": 0.4038461744785309,
+                        "width": 0.26654738187789919,
+                        "height": 0.28533095121383669
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Ligue o calibrador/aferidor de vazão, navegue até a função MEDIR e, em seguida, selecione a opção ÚNICA. ",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.640102207660675,
+                            "y": 0.5148698687553406,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-08/02.png",
+                    "foreground": "Tutorials/Sit-08/foreground/02.png",
+                    "foregroundRect": {
+                        "x": 0.22283095121383668,
+                        "y": 0.4038461446762085,
+                        "width": 0.25849732756614687,
+                        "height": 0.26923078298568728
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Ligue o calibrador/aferidor de vazão, navegue até a função MEDIR e, em seguida, selecione a opção ÚNICA. ",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.6380111575126648,
+                            "y": 0.5130111575126648,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-08/02.png",
+                    "foreground": "Tutorials/Sit-08/foreground/03.png",
+                    "foregroundRect": {
+                        "x": 0.21679338812828065,
+                        "y": 0.3877459764480591,
+                        "width": 0.2705724239349365,
+                        "height": 0.2692307233810425
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                }
+            ]
+        },
+        {
+            "id": "situacao_09",
+            "slides": [
+                {
+                    "background": "Tutorials/Sit-09/01.png",
+                    "foreground": "Tutorials/Sit-09/foreground/01.png",
+                    "foregroundRect": {
+                        "x": 0.22737659513950349,
+                        "y": 0.36334553360939028,
+                        "width": 0.25628429651260378,
+                        "height": 0.29341864585876467
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Inicie o processo de medição para fins de ajuste de vazão. ",
+                    "orientationRect": {
+                        "x": 0.31195372343063357,
+                        "y": 0.8017399907112122,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.11095942556858063,
+                        "y": 0.0715327262878418,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.6379514932632446,
+                            "y": 0.5095056891441345,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-09/01.png",
+                    "foreground": "Tutorials/Sit-09/foreground/02.png",
+                    "foregroundRect": {
+                        "x": 0.220818430185318,
+                        "y": 0.3823792338371277,
+                        "width": 0.2645348906517029,
+                        "height": 0.2745974659919739
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                }
+            ]
+        },
+        {
+            "id": "situacao_10",
+            "slides": [
+                {
+                    "background": "Tutorials/Sit-10/01.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                }
+            ]
+        },
+        {
+            "id": "situacao_11",
+            "slides": [
+                {
+                    "background": "Tutorials/Sit-11/01.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Acesse a função de medição de vazão sequencial e realize um conjunto de 10 leituras. ",
+                    "orientationRect": {
+                        "x": 0.3147483766078949,
+                        "y": 0.7983927726745606,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.042325377464294437,
+                        "y": 0.05777549743652344,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.3485981225967407,
+                            "y": 0.65887850522995,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-11/02.png",
+                    "foreground": "Tutorials/Sit-11/foreground/01.png",
+                    "foregroundRect": {
+                        "x": 0.2206609696149826,
+                        "y": 0.37949642539024355,
+                        "width": 0.25921759009361269,
+                        "height": 0.28956836462020876
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Acesse a função de medição de vazão sequencial e realize um conjunto de 10 leituras. ",
+                    "orientationRect": {
+                        "x": 0.30867820978164675,
+                        "y": 0.7947956919670105,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.15563471615314485,
+                        "y": 0.020005762577056886,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.7060747742652893,
+                            "y": 0.5112149715423584,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-11/02.png",
+                    "foreground": "Tutorials/Sit-11/foreground/02.png",
+                    "foregroundRect": {
+                        "x": 0.22673112154006959,
+                        "y": 0.39208632707595827,
+                        "width": 0.25820592045783999,
+                        "height": 0.2751798629760742
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Acesse a função de medição de vazão sequencial e realize um conjunto de 10 leituras. ",
+                    "orientationRect": {
+                        "x": 0.3127250075340271,
+                        "y": 0.7947956919670105,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.6366822123527527,
+                            "y": 0.5149532556533814,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-11/02.png",
+                    "foreground": "Tutorials/Sit-11/foreground/03.png",
+                    "foregroundRect": {
+                        "x": 0.22875449061393739,
+                        "y": 0.3884892165660858,
+                        "width": 0.254159152507782,
+                        "height": 0.2823740839958191
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Acesse a função de medição de vazão sequencial e realize um conjunto de 10 leituras. ",
+                    "orientationRect": {
+                        "x": 0.3137366771697998,
+                        "y": 0.8037884831428528,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.7123831510543823,
+                            "y": 0.5112149715423584,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-11/02.png",
+                    "foreground": "Tutorials/Sit-11/foreground/04.png",
+                    "foregroundRect": {
+                        "x": 0.2257194221019745,
+                        "y": 0.40287768840789797,
+                        "width": 0.25820595026016238,
+                        "height": 0.2751798629760742
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Acesse a função de medição de vazão sequencial e realize um conjunto de 10 leituras. ",
+                    "orientationRect": {
+                        "x": 0.3127250075340271,
+                        "y": 0.800191342830658,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.708531379699707,
+                            "y": 0.5152091383934021,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-11/02.png",
+                    "foreground": "Tutorials/Sit-11/foreground/05.png",
+                    "foregroundRect": {
+                        "x": 0.2257194221019745,
+                        "y": 0.39208632707595827,
+                        "width": 0.26022928953170779,
+                        "height": 0.2823740839958191
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Acesse a função de medição de vazão sequencial e realize um conjunto de 10 leituras. ",
+                    "orientationRect": {
+                        "x": 0.3127250075340271,
+                        "y": 0.800191342830658,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.6377336382865906,
+                            "y": 0.5112149715423584,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-11/02.png",
+                    "foreground": "Tutorials/Sit-11/foreground/06.png",
+                    "foregroundRect": {
+                        "x": 0.2247077375650406,
+                        "y": 0.38309353590011599,
+                        "width": 0.25921764969825747,
+                        "height": 0.28776973485946658
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Acesse a função de medição de vazão sequencial e realize um conjunto de 10 leituras. ",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.6366822123527527,
+                            "y": 0.5149532556533814,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-11/02.png",
+                    "foreground": "Tutorials/Sit-11/foreground/07.png",
+                    "foregroundRect": {
+                        "x": 0.2247077375650406,
+                        "y": 0.3723021447658539,
+                        "width": 0.2571942210197449,
+                        "height": 0.298561155796051
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-11/02.png",
+                    "foreground": "Tutorials/Sit-11/foreground/08.png",
+                    "foregroundRect": {
+                        "x": 0.2247077375650406,
+                        "y": 0.3723021447658539,
+                        "width": 0.2571942210197449,
+                        "height": 0.298561155796051
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-11/02.png",
+                    "foreground": "Tutorials/Sit-11/foreground/09.png",
+                    "foregroundRect": {
+                        "x": 0.2247077375650406,
+                        "y": 0.3723021447658539,
+                        "width": 0.2571942210197449,
+                        "height": 0.298561155796051
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-11/02.png",
+                    "foreground": "Tutorials/Sit-11/foreground/10.png",
+                    "foregroundRect": {
+                        "x": 0.2247077375650406,
+                        "y": 0.3723021447658539,
+                        "width": 0.2571942210197449,
+                        "height": 0.298561155796051
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-11/02.png",
+                    "foreground": "Tutorials/Sit-11/foreground/11.png",
+                    "foregroundRect": {
+                        "x": 0.2247077375650406,
+                        "y": 0.3723021447658539,
+                        "width": 0.2571942210197449,
+                        "height": 0.298561155796051
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-11/02.png",
+                    "foreground": "Tutorials/Sit-11/foreground/12.png",
+                    "foregroundRect": {
+                        "x": 0.2247077375650406,
+                        "y": 0.3723021447658539,
+                        "width": 0.2571942210197449,
+                        "height": 0.298561155796051
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-11/02.png",
+                    "foreground": "Tutorials/Sit-11/foreground/13.png",
+                    "foregroundRect": {
+                        "x": 0.2247077375650406,
+                        "y": 0.3723021447658539,
+                        "width": 0.2571942210197449,
+                        "height": 0.298561155796051
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-11/02.png",
+                    "foreground": "Tutorials/Sit-11/foreground/14.png",
+                    "foregroundRect": {
+                        "x": 0.2247077375650406,
+                        "y": 0.3723021447658539,
+                        "width": 0.2571942210197449,
+                        "height": 0.298561155796051
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-11/02.png",
+                    "foreground": "Tutorials/Sit-11/foreground/15.png",
+                    "foregroundRect": {
+                        "x": 0.2247077375650406,
+                        "y": 0.3723021447658539,
+                        "width": 0.2571942210197449,
+                        "height": 0.298561155796051
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-11/02.png",
+                    "foreground": "Tutorials/Sit-11/foreground/16.png",
+                    "foregroundRect": {
+                        "x": 0.2247077375650406,
+                        "y": 0.3723021447658539,
+                        "width": 0.2571942210197449,
+                        "height": 0.298561155796051
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                }
+            ]
+        },
+        {
+            "id": "situacao_12",
+            "slides": []
         }
     ]
 }
