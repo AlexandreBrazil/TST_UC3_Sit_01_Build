@@ -654,6 +654,318 @@
                     "advanceAction": ""
                 }
             ]
+        },
+        {
+            "id": "situacao_06",
+            "slides": [
+                {
+                    "background": "Tutorials/Sit-06/01.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Conecte a extremidade do tubo à porta de sucção do calibrador de vazão. ",
+                    "orientationRect": {
+                        "x": 0.30084121227264407,
+                        "y": 0.8175690174102783,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.05289824306964874,
+                        "y": 0.05712956190109253,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.5658135414123535,
+                            "y": 0.30073127150535586,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-06/01.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Conecte a extremidade do tubo à porta de sucção do calibrador de vazão. ",
+                    "orientationRect": {
+                        "x": 0.3028218150138855,
+                        "y": 0.8122873306274414,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.02516936883330345,
+                        "y": 0.043045055121183398,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.7334323525428772,
+                            "y": 0.5694698095321655,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-06/02.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Conecte a extremidade do tubo à porta de sucção do calibrador de vazão. ",
+                    "orientationRect": {
+                        "x": 0.31470564007759097,
+                        "y": 0.8105267882347107,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.03565140813589096,
+                        "y": 0.0430450513958931,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-06/03.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.31965720653533938,
+                        "y": 0.8140478730201721,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.04200475662946701,
+                        "y": 0.07649575918912888,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                }
+            ]
+        },
+        {
+            "id": "situacao_07",
+            "slides": [
+                {
+                    "background": "Tutorials/Sit-07/01.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Ligue a bomba pressionando o botão por meio segundo. ",
+                    "orientationRect": {
+                        "x": 0.32404541969299319,
+                        "y": 0.8139975070953369,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.02966565638780594,
+                        "y": 0.04195848107337952,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.7561570405960083,
+                            "y": 0.5483271479606628,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-07/02.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Ligue a bomba pressionando o botão por meio segundo. ",
+                    "orientationRect": {
+                        "x": 0.24958209693431855,
+                        "y": 0.7853749990463257,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.02012522518634796,
+                        "y": 0.3854289650917053,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.5041821599006653,
+                            "y": 0.17472119629383088,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-07/02.png",
+                    "foreground": "Tutorials/Sit-07/foreground/01.png",
+                    "foregroundRect": {
+                        "x": 0.3250516951084137,
+                        "y": 0.33738818764686587,
+                        "width": 0.3700000047683716,
+                        "height": 0.33000001311302187
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Ligue a bomba pressionando o botão por meio segundo. ",
+                    "orientationRect": {
+                        "x": 0.3139828145503998,
+                        "y": 0.7961084246635437,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.031678177416324618,
+                        "y": 0.040169570595026019,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-07/02.png",
+                    "foreground": "Tutorials/Sit-07/foreground/02.png",
+                    "foregroundRect": {
+                        "x": 0.32893112301826479,
+                        "y": 0.3511449098587036,
+                        "width": 0.3700000047683716,
+                        "height": 0.3100000023841858
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Ligue a bomba pressionando o botão por meio segundo. ",
+                    "orientationRect": {
+                        "x": 0.3139828145503998,
+                        "y": 0.7907416820526123,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.0920538529753685,
+                        "y": 0.03122502751648426,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-07/02.png",
+                    "foreground": "Tutorials/Sit-07/foreground/03.png",
+                    "foregroundRect": {
+                        "x": 0.31741949915885928,
+                        "y": 0.36270126700401308,
+                        "width": 0.38999998569488528,
+                        "height": 0.30000001192092898
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.2596447169780731,
+                        "y": 0.7871638536453247,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.16450466215610505,
+                        "y": 0.04195848107337952,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                }
+            ]
         }
     ]
 }
