@@ -265,9 +265,9 @@
                     "delay": -1.0,
                     "orientationText": "Rompa ambas as extremidades do tubo de vidro do amostrador representativo com o dispositivo de quebra. ",
                     "orientationRect": {
-                        "x": 0.23338979482650758,
+                        "x": 0.3503015637397766,
                         "y": 0.7814223766326904,
-                        "width": 0.7200382947921753,
+                        "width": 0.6031265258789063,
                         "height": 0.1611558198928833
                     },
                     "complementaryText": "",
@@ -376,9 +376,9 @@
                     "delay": -1.0,
                     "orientationText": "Conecte o tubo flexível com suporte para amostrador à tubulação de entrada de ar da bomba de amostragem. ",
                     "orientationRect": {
-                        "x": 0.2239520400762558,
+                        "x": 0.40373146533966067,
                         "y": 0.7653418183326721,
-                        "width": 0.7290946245193481,
+                        "width": 0.5493152141571045,
                         "height": 0.17188924551010133
                     },
                     "complementaryText": "",
@@ -449,9 +449,9 @@
                     "delay": -1.0,
                     "orientationText": "Conecte o amostrador representativo na outra extremidade do tubo. A seta desenhada no tubo amostrador deve ser conectada apontando na direção do fluxo de ar. ",
                     "orientationRect": {
-                        "x": 0.22304019331932069,
+                        "x": 0.39840781688690188,
                         "y": 0.7730447053909302,
-                        "width": 0.7472074031829834,
+                        "width": 0.5718398094177246,
                         "height": 0.17010033130645753
                     },
                     "complementaryText": "",
@@ -487,9 +487,9 @@
                     "delay": -1.0,
                     "orientationText": "Conecte o amostrador representativo na outra extremidade do tubo. A seta desenhada no tubo amostrador deve ser conectada apontando na direção do fluxo de ar. ",
                     "orientationRect": {
-                        "x": 0.21313701570034028,
+                        "x": 0.3973281979560852,
                         "y": 0.7511526346206665,
-                        "width": 0.7441885471343994,
+                        "width": 0.5599973797798157,
                         "height": 0.1844116449356079
                     },
                     "complementaryText": "",
@@ -560,9 +560,9 @@
                     "delay": -1.0,
                     "orientationText": "Conecte a outra extremidade do amostrador ao outro tubo flexível na extremidade que contém o adaptador. ",
                     "orientationRect": {
-                        "x": 0.22411024570465089,
+                        "x": 0.40058082342147829,
                         "y": 0.770915687084198,
-                        "width": 0.7381510138511658,
+                        "width": 0.5616804361343384,
                         "height": 0.1611558198928833
                     },
                     "complementaryText": "",
@@ -598,9 +598,9 @@
                     "delay": -1.0,
                     "orientationText": "Conecte a outra extremidade do amostrador ao outro tubo flexível na extremidade que contém o adaptador. ",
                     "orientationRect": {
-                        "x": 0.22613869607448579,
+                        "x": 0.3993004560470581,
                         "y": 0.7903102040290833,
-                        "width": 0.741169810295105,
+                        "width": 0.5680080652236939,
                         "height": 0.1557890772819519
                     },
                     "complementaryText": "",
@@ -850,9 +850,9 @@
                     "delay": -1.0,
                     "orientationText": "Ligue a bomba pressionando o botão por meio segundo. ",
                     "orientationRect": {
-                        "x": 0.24958209693431855,
+                        "x": 0.3731115162372589,
                         "y": 0.7853749990463257,
-                        "width": 0.6496000289916992,
+                        "width": 0.5260705947875977,
                         "height": 0.1378999948501587
                     },
                     "complementaryText": "",
@@ -888,9 +888,9 @@
                     "delay": -1.0,
                     "orientationText": "Ligue a bomba pressionando o botão por meio segundo. ",
                     "orientationRect": {
-                        "x": 0.3139828145503998,
+                        "x": 0.3922916352748871,
                         "y": 0.7961084246635437,
-                        "width": 0.6496000289916992,
+                        "width": 0.5712912082672119,
                         "height": 0.1378999948501587
                     },
                     "complementaryText": "",
@@ -918,9 +918,9 @@
                     "delay": -1.0,
                     "orientationText": "Ligue a bomba pressionando o botão por meio segundo. ",
                     "orientationRect": {
-                        "x": 0.3139828145503998,
+                        "x": 0.3933945894241333,
                         "y": 0.7907416820526123,
-                        "width": 0.6496000289916992,
+                        "width": 0.5701882839202881,
                         "height": 0.1378999948501587
                     },
                     "complementaryText": "",
@@ -983,9 +983,9 @@
                     "delay": -1.0,
                     "orientationText": "Ligue o calibrador/aferidor de vazão, navegue até a função MEDIR e, em seguida, selecione a opção ÚNICA. \n ",
                     "orientationRect": {
-                        "x": 0.1720999926328659,
-                        "y": 0.039400000125169757,
-                        "width": 0.6496000289916992,
+                        "x": 0.38717350363731387,
+                        "y": 0.8041058778762817,
+                        "width": 0.5768059492111206,
                         "height": 0.1378999948501587
                     },
                     "complementaryText": "",
@@ -1021,9 +1021,9 @@
                     "delay": -1.0,
                     "orientationText": "Ligue o calibrador/aferidor de vazão, navegue até a função MEDIR e, em seguida, selecione a opção ÚNICA. ",
                     "orientationRect": {
-                        "x": 0.1720999926328659,
-                        "y": 0.039400000125169757,
-                        "width": 0.6496000289916992,
+                        "x": 0.3805558681488037,
+                        "y": 0.8001843094825745,
+                        "width": 0.5823206305503845,
                         "height": 0.1378999948501587
                     },
                     "complementaryText": "",
@@ -1059,9 +1059,9 @@
                     "delay": -1.0,
                     "orientationText": "Ligue o calibrador/aferidor de vazão, navegue até a função MEDIR e, em seguida, selecione a opção ÚNICA. ",
                     "orientationRect": {
-                        "x": 0.1720999926328659,
-                        "y": 0.039400000125169757,
-                        "width": 0.6496000289916992,
+                        "x": 0.38165879249572756,
+                        "y": 0.7982234954833984,
+                        "width": 0.5801147222518921,
                         "height": 0.1378999948501587
                     },
                     "complementaryText": "",
@@ -1097,9 +1097,9 @@
                     "delay": -1.0,
                     "orientationText": "Ligue o calibrador/aferidor de vazão, navegue até a função MEDIR e, em seguida, selecione a opção ÚNICA. ",
                     "orientationRect": {
-                        "x": 0.1720999926328659,
-                        "y": 0.039400000125169757,
-                        "width": 0.6496000289916992,
+                        "x": 0.39158526062965395,
+                        "y": 0.806066632270813,
+                        "width": 0.5690853595733643,
                         "height": 0.1378999948501587
                     },
                     "complementaryText": "",
@@ -1506,8 +1506,8 @@
                     "delay": -1.0,
                     "orientationText": "Acesse a função de medição de vazão sequencial e realize um conjunto de 10 leituras. ",
                     "orientationRect": {
-                        "x": 0.1720999926328659,
-                        "y": 0.039400000125169757,
+                        "x": 0.31437939405441286,
+                        "y": 0.8021450638771057,
                         "width": 0.6496000289916992,
                         "height": 0.1378999948501587
                     },
@@ -1835,7 +1835,3073 @@
         },
         {
             "id": "situacao_12",
-            "slides": []
+            "slides": [
+                {
+                    "background": "Tutorials/Sit-12/01.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Na bomba, pressione ao mesmo tempo os botões  SETA PARA CIMA e SETA PARA BAIXO para desligar a operação. ",
+                    "orientationRect": {
+                        "x": 0.31074434518814089,
+                        "y": 0.7999633550643921,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.7519423961639404,
+                            "y": 0.5566727519035339,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-12/02.png",
+                    "foreground": "Tutorials/Sit-12/foreground/01.png",
+                    "foregroundRect": {
+                        "x": 0.32229313254356387,
+                        "y": 0.3397887349128723,
+                        "width": 0.3781910240650177,
+                        "height": 0.34859153628349306
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Na bomba, pressione ao mesmo tempo os botões  SETA PARA CIMA e SETA PARA BAIXO para desligar a operação. ",
+                    "orientationRect": {
+                        "x": 0.31074434518814089,
+                        "y": 0.7946816682815552,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.0,
+                        "y": 0.07297462224960327,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.509255051612854,
+                            "y": 0.3555758595466614,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-12/03.png",
+                    "foreground": "Tutorials/Sit-12/foreground/01.png",
+                    "foregroundRect": {
+                        "x": 0.3213028311729431,
+                        "y": 0.34330984950065615,
+                        "width": 0.37918132543563845,
+                        "height": 0.3274647891521454
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                }
+            ]
+        },
+        {
+            "id": "situacao_13",
+            "slides": [
+                {
+                    "background": "Tutorials/Sit-13/01.png",
+                    "foreground": "Tutorials/Sit-13/foreground/01-02-03-04.png",
+                    "foregroundRect": {
+                        "x": 0.3193221688270569,
+                        "y": 0.35739436745643618,
+                        "width": 0.3831426203250885,
+                        "height": 0.320422500371933
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Acesse a configuração da bomba e ajuste o tempo para 1 min. Depois disso, saia da função de configuração. ",
+                    "orientationRect": {
+                        "x": 0.31569594144821169,
+                        "y": 0.8017238974571228,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.5041133165359497,
+                            "y": 0.17641681432724,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-13/01.png",
+                    "foreground": "Tutorials/Sit-13/foreground/01-02-03-04.png",
+                    "foregroundRect": {
+                        "x": 0.3193221688270569,
+                        "y": 0.35211268067359927,
+                        "width": 0.3821523189544678,
+                        "height": 0.320422500371933
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Acesse a configuração da bomba e ajuste o tempo para 1 min. Depois disso, saia da função de configuração. ",
+                    "orientationRect": {
+                        "x": 0.3127250075340271,
+                        "y": 0.7964422106742859,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.3827696442604065,
+                            "y": 0.1727605164051056,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-13/01.png",
+                    "foreground": "Tutorials/Sit-13/foreground/01-02-03-04.png",
+                    "foregroundRect": {
+                        "x": 0.3193221688270569,
+                        "y": 0.3397887349128723,
+                        "width": 0.3821523189544678,
+                        "height": 0.3362675905227661
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Acesse a configuração da bomba e ajuste o tempo para 1 min. Depois disso, saia da função de configuração. ",
+                    "orientationRect": {
+                        "x": 0.311734676361084,
+                        "y": 0.7999633550643921,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.6285420656204224,
+                            "y": 0.18190127611160279,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-13/01.png",
+                    "foreground": "Tutorials/Sit-13/foreground/01-02-03-04.png",
+                    "foregroundRect": {
+                        "x": 0.32229313254356387,
+                        "y": 0.34507042169570925,
+                        "width": 0.38017165660858157,
+                        "height": 0.327464759349823
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Acesse a configuração da bomba e ajuste o tempo para 1 min. Depois disso, saia da função de configuração. ",
+                    "orientationRect": {
+                        "x": 0.311734676361084,
+                        "y": 0.7964422106742859,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.5061700344085693,
+                            "y": 0.1727605164051056,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-13/01.png",
+                    "foreground": "Tutorials/Sit-13/foreground/05.png",
+                    "foregroundRect": {
+                        "x": 0.31833186745643618,
+                        "y": 0.34859156608581545,
+                        "width": 0.38413292169570925,
+                        "height": 0.3239436149597168
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Acesse a configuração da bomba e ajuste o tempo para 1 min. Depois disso, saia da função de configuração. ",
+                    "orientationRect": {
+                        "x": 0.3127250075340271,
+                        "y": 0.7999633550643921,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.5061700344085693,
+                            "y": 0.1727605164051056,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-13/01.png",
+                    "foreground": "Tutorials/Sit-13/foreground/06.png",
+                    "foregroundRect": {
+                        "x": 0.3213028311729431,
+                        "y": 0.34507042169570925,
+                        "width": 0.382152259349823,
+                        "height": 0.32394367456436159
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Acesse a configuração da bomba e ajuste o tempo para 1 min. Depois disso, saia da função de configuração. ",
+                    "orientationRect": {
+                        "x": 0.31470561027526858,
+                        "y": 0.8017238974571228,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.5061700344085693,
+                            "y": 0.17641681432724,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-13/01.png",
+                    "foreground": "Tutorials/Sit-13/foreground/07.png",
+                    "foregroundRect": {
+                        "x": 0.3203125,
+                        "y": 0.34330984950065615,
+                        "width": 0.3821522891521454,
+                        "height": 0.3292253315448761
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Acesse a configuração da bomba e ajuste o tempo para 1 min. Depois disso, saia da função de configuração. ",
+                    "orientationRect": {
+                        "x": 0.3127250075340271,
+                        "y": 0.7946816682815552,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.6295703649520874,
+                            "y": 0.17641681432724,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-13/02.png",
+                    "foreground": "Tutorials/Sit-13/foreground/08.png",
+                    "foregroundRect": {
+                        "x": 0.3213028311729431,
+                        "y": 0.35387325286865237,
+                        "width": 0.38017165660858157,
+                        "height": 0.3221830725669861
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Acesse a configuração da bomba e ajuste o tempo para 1 min. Depois disso, saia da função de configuração. ",
+                    "orientationRect": {
+                        "x": 0.3137153089046478,
+                        "y": 0.7982028126716614,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.510283350944519,
+                            "y": 0.36106032133102419,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-13/01.png",
+                    "foreground": "Tutorials/Sit-13/foreground/09.png",
+                    "foregroundRect": {
+                        "x": 0.3193221688270569,
+                        "y": 0.34683099389076235,
+                        "width": 0.38116198778152468,
+                        "height": 0.3257041871547699
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                }
+            ]
+        },
+        {
+            "id": "situacao_14",
+            "slides": [
+                {
+                    "background": "Tutorials/Sit-14/01-03.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Desligue o aferidor de vazão, retire o amostrador representativo e tampe suas extremidades.  ",
+                    "orientationRect": {
+                        "x": 0.311734676361084,
+                        "y": 0.8070056438446045,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.35603290796279909,
+                            "y": 0.664533793926239,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-14/02.png",
+                    "foreground": "Tutorials/Sit-14/foreground/01.png",
+                    "foregroundRect": {
+                        "x": 0.22524207830429078,
+                        "y": 0.3838028311729431,
+                        "width": 0.25737234950065615,
+                        "height": 0.2852112650871277
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Desligue o aferidor de vazão, retire o amostrador representativo e tampe suas extremidades.  ",
+                    "orientationRect": {
+                        "x": 0.311734676361084,
+                        "y": 0.805245041847229,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.7396023869514465,
+                            "y": 0.39031079411506655,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-14/01-03.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Desligue o aferidor de vazão, retire o amostrador representativo e tampe suas extremidades.  ",
+                    "orientationRect": {
+                        "x": 0.3127250075340271,
+                        "y": 0.7964422106742859,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.33238115906715395,
+                            "y": 0.18921388685703278,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-14/04.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Desligue o aferidor de vazão, retire o amostrador representativo e tampe suas extremidades.  ",
+                    "orientationRect": {
+                        "x": 0.3077734112739563,
+                        "y": 0.805245041847229,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.4866316318511963,
+                            "y": 0.3427788019180298,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-14/05.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Desligue o aferidor de vazão, retire o amostrador representativo e tampe suas extremidades.  ",
+                    "orientationRect": {
+                        "x": 0.3137153089046478,
+                        "y": 0.8034844994544983,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.36837294697761538,
+                            "y": 0.3409506380558014,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-14/06-07.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Desligue o aferidor de vazão, retire o amostrador representativo e tampe suas extremidades.  ",
+                    "orientationRect": {
+                        "x": 0.3137153089046478,
+                        "y": 0.805245041847229,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.5534734725952148,
+                            "y": 0.4140767753124237,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-14/06-07.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Desligue o aferidor de vazão, retire o amostrador representativo e tampe suas extremidades.  ",
+                    "orientationRect": {
+                        "x": 0.31470561027526858,
+                        "y": 0.8017238974571228,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.5688985586166382,
+                            "y": 0.29707494378089907,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-14/08.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                }
+            ]
+        },
+        {
+            "id": "situacao_15",
+            "slides": [
+                {
+                    "background": "Tutorials/Sit-15/01.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Rompa ambas as extremidades do duto de vidro do amostrador que será usado na coleta, utilizando o dispositivo de quebra.",
+                    "orientationRect": {
+                        "x": 0.31866687536239626,
+                        "y": 0.8316535353660584,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "Aviso! \nSe forem utilizados amostradores branco de campo, suas extremidades também deverão ser quebradas neste momento. Em seguida, tampe as extremidades e mantenha os amostradores em ambiente próximo ao ponto de coleta. ",
+                    "complementaryStyle": "long",
+                    "complementaryRect": {
+                        "x": 0.03804349899291992,
+                        "y": 0.04128451645374298,
+                        "width": 0.3586931824684143,
+                        "height": 0.36444494128227236
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.7786791324615479,
+                            "y": 0.29159048199653628,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-15/02-03-04.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Rompa ambas as extremidades do duto de vidro do amostrador que será usado na coleta, utilizando o dispositivo de quebra.",
+                    "orientationRect": {
+                        "x": 0.31470561027526858,
+                        "y": 0.8070056438446045,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "Aviso! \nSe forem utilizados amostradores branco de campo, suas extremidades também deverão ser quebradas neste momento. Em seguida, tampe as extremidades e mantenha os amostradores em ambiente próximo ao ponto de coleta. ",
+                    "complementaryStyle": "long",
+                    "complementaryRect": {
+                        "x": 0.029445219784975053,
+                        "y": 0.031038697808980943,
+                        "width": 0.42031803727149966,
+                        "height": 0.3556835353374481
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.725205659866333,
+                            "y": 0.3117001950740814,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-15/02-03-04.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Rompa ambas as extremidades do duto de vidro do amostrador que será usado na coleta, utilizando o dispositivo de quebra.",
+                    "orientationRect": {
+                        "x": 0.3127250075340271,
+                        "y": 0.8017238974571228,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "Aviso! \nSe forem utilizados amostradores branco de campo, suas extremidades também deverão ser quebradas neste momento. Em seguida, tampe as extremidades e mantenha os amostradores em ambiente próximo ao ponto de coleta. ",
+                    "complementaryStyle": "long",
+                    "complementaryRect": {
+                        "x": 0.028140325099229814,
+                        "y": 0.04480563849210739,
+                        "width": 0.4130013585090637,
+                        "height": 0.34075671434402468
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.6460237503051758,
+                            "y": 0.47806215286254885,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-15/02-03-04.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Rompa ambas as extremidades do duto de vidro do amostrador que será usado na coleta, utilizando o dispositivo de quebra.",
+                    "orientationRect": {
+                        "x": 0.3137153089046478,
+                        "y": 0.7982028126716614,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "Aviso! \nSe forem utilizados amostradores branco de campo, suas extremidades também deverão ser quebradas neste momento. Em seguida, tampe as extremidades e mantenha os amostradores em ambiente próximo ao ponto de coleta. ",
+                    "complementaryStyle": "long",
+                    "complementaryRect": {
+                        "x": 0.031111259013414384,
+                        "y": 0.05712953209877014,
+                        "width": 0.40904009342193606,
+                        "height": 0.32391053438186648
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.223377525806427,
+                            "y": 0.46526506543159487,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-15/05.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                }
+            ]
+        },
+        {
+            "id": "situacao_16",
+            "slides": [
+                {
+                    "background": "Tutorials/Sit-16/01-02.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Conecte o amostrador representativo na outra extremidade do tubo. A seta desenhada no tubo amostrador deve ser conectada apontando na direção do fluxo de ar.  ",
+                    "orientationRect": {
+                        "x": 0.31866690516471865,
+                        "y": 0.7682732939720154,
+                        "width": 0.6387065649032593,
+                        "height": 0.19951969385147096
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.3704296052455902,
+                            "y": 0.3482632637023926,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-16/01-02.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Conecte o amostrador representativo na outra extremidade do tubo. A seta desenhada no tubo amostrador deve ser conectada apontando na direção do fluxo de ar.  ",
+                    "orientationRect": {
+                        "x": 0.32857006788253786,
+                        "y": 0.7735549211502075,
+                        "width": 0.6189001798629761,
+                        "height": 0.1907169222831726
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.4917733073234558,
+                            "y": 0.5420475602149963,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-16/03.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                }
+            ]
+        },
+        {
+            "id": "situacao_17",
+            "slides": [
+                {
+                    "background": "Tutorials/Sit-17/01-02.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Conecte a tampa do suporte sobre o amostrador. ",
+                    "orientationRect": {
+                        "x": 0.563275158405304,
+                        "y": 0.8034844994544983,
+                        "width": 0.3822144865989685,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "Aviso! \nA tampa de proteção protege o amostrador e o trabalhador. Ela conta com um orifício para entrada de ar próximo à garra de fixação.",
+                    "complementaryStyle": "long",
+                    "complementaryRect": {
+                        "x": 0.034082215279340747,
+                        "y": 0.03812236338853836,
+                        "width": 0.5085456371307373,
+                        "height": 0.3341977596282959
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.6141453385353088,
+                            "y": 0.19835466146469117,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-17/01-02.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Conecte a tampa do suporte sobre o amostrador. ",
+                    "orientationRect": {
+                        "x": 0.5513913631439209,
+                        "y": 0.8034844994544983,
+                        "width": 0.4049917459487915,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "Aviso! \nA tampa de proteção protege o amostrador e o trabalhador. Ela conta com um orifício para entrada de ar próximo à garra de fixação.",
+                    "complementaryStyle": "long",
+                    "complementaryRect": {
+                        "x": 0.03507255017757416,
+                        "y": 0.05712955817580223,
+                        "width": 0.4629017114639282,
+                        "height": 0.3723709285259247
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.6953839063644409,
+                            "y": 0.3171846568584442,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-17/03.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                }
+            ]
+        },
+        {
+            "id": "situacao_18",
+            "slides": [
+                {
+                    "background": "Tutorials/Sit-18/01-02.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Fixe a bomba de amostragem na cintura do trabalhador e posicione o amostrador, especificamente o ponto de ingresso de ar, na zona respiratória do empregado.",
+                    "orientationRect": {
+                        "x": 0.5862544178962708,
+                        "y": 0.6413400173187256,
+                        "width": 0.39592355489730837,
+                        "height": 0.32417452335357668
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.31038063764572146,
+                        "y": 0.023678839206695558,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.10100548714399338,
+                            "y": 0.21297988295555116,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        },
+                        {
+                            "id": "p2",
+                            "x": 0.21309415996074677,
+                            "y": 0.20383912324905396,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-18/01-02.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Fixe a bomba de amostragem na cintura do trabalhador e posicione o amostrador, especificamente o ponto de ingresso de ar, na zona respiratória do empregado.",
+                    "orientationRect": {
+                        "x": 0.582832932472229,
+                        "y": 0.6374185085296631,
+                        "width": 0.3948206901550293,
+                        "height": 0.33789998292922976
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.32715001702308657,
+                        "y": 0.0046509504318237309,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.48457494378089907,
+                            "y": 0.5987203121185303,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        },
+                        {
+                            "id": "p2",
+                            "x": 0.4568098783493042,
+                            "y": 0.2659963369369507,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-18/03.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.32460880279541018,
+                        "y": 0.8210901021957398,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "Aviso! \nO tubo (mangueira) deve ser posicionado de modo a reduzir a interferência na atividade do empregado. Normalmente, as bombas de amostragem são colocadas em cases específicos para seu acondicionamento durante a avaliação. ",
+                    "complementaryStyle": "long",
+                    "complementaryRect": {
+                        "x": 0.02041972428560257,
+                        "y": 0.04188515990972519,
+                        "width": 0.7273745536804199,
+                        "height": 0.21895337104797364
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                }
+            ]
+        },
+        {
+            "id": "situacao_19",
+            "slides": [
+                {
+                    "background": "Tutorials/Sit-19/01.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": 2.0,
+                    "orientationText": "Na tela da bomba, inicie a operação. ",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "Aviso! \nNeste tipo de avaliação, pode ser necessário configurar um atraso na bomba para início da medição. ",
+                    "complementaryStyle": "long",
+                    "complementaryRect": {
+                        "x": 0.5841352939605713,
+                        "y": 0.5948470234870911,
+                        "width": 0.38286471366882326,
+                        "height": 0.36545294523239138
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-19/02.png",
+                    "foreground": "Tutorials/Sit-19/foreground/01.png",
+                    "foregroundRect": {
+                        "x": 0.3214445412158966,
+                        "y": 0.35554561018943789,
+                        "width": 0.37924864888191225,
+                        "height": 0.3175313174724579
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Na tela da bomba, inicie a operação. ",
+                    "orientationRect": {
+                        "x": 0.5534436702728272,
+                        "y": 0.8265199065208435,
+                        "width": 0.28332096338272097,
+                        "height": 0.11464416980743408
+                    },
+                    "complementaryText": "Aviso! \nNeste tipo de avaliação, pode ser necessário configurar um atraso na bomba para início da medição. ",
+                    "complementaryStyle": "long",
+                    "complementaryRect": {
+                        "x": 0.009540440514683724,
+                        "y": 0.04553629085421562,
+                        "width": 0.3094273507595062,
+                        "height": 0.29222342371940615
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.5083643198013306,
+                            "y": 0.35687732696533205,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-19/03.png",
+                    "foreground": "Tutorials/Sit-19/foreground/02.png",
+                    "foregroundRect": {
+                        "x": 0.3204382658004761,
+                        "y": 0.34838998317718508,
+                        "width": 0.3792486786842346,
+                        "height": 0.3246869444847107
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.0,
+                        "y": 0.01793309487402439,
+                        "width": 0.32860270142555239,
+                        "height": 0.2953239679336548
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                }
+            ]
+        },
+        {
+            "id": "situacao_20",
+            "slides": [
+                {
+                    "background": "Tutorials/Sit-20/01.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Ligue o termo-higro-barômetro e aguarde as leituras estabilizarem. Depois, meça a temperatura, a umidade relativa e a pressão atmosférica. Anote esses valores e desligue o aparelho. ",
+                    "orientationRect": {
+                        "x": 0.592717170715332,
+                        "y": 0.5760725736618042,
+                        "width": 0.38897842168807986,
+                        "height": 0.39371395111083987
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.02564060688018799,
+                        "y": 0.018702685832977296,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.5031366348266602,
+                            "y": 0.6319702863693237,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-20/02-03.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Ligue o termo-higro-barômetro e aguarde as leituras estabilizarem. Depois, meça a temperatura, a umidade relativa e a pressão atmosférica. Anote esses valores e desligue o aparelho. ",
+                    "orientationRect": {
+                        "x": 0.4206465184688568,
+                        "y": 0.7084518074989319,
+                        "width": 0.5348862409591675,
+                        "height": 0.24165672063827516
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.3860362470149994,
+                            "y": 0.25464683771133425,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-20/02-03.png",
+                    "foreground": "Tutorials/Sit-20/foreground/01.png",
+                    "foregroundRect": {
+                        "x": 0.3606887459754944,
+                        "y": 0.3877459764480591,
+                        "width": 0.27157869935035708,
+                        "height": 0.25134170055389407
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                }
+            ]
+        },
+        {
+            "id": "situacao_21",
+            "slides": [
+                {
+                    "background": "Tutorials/Sit-21/01.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                }
+            ]
+        },
+        {
+            "id": "situacao_22",
+            "slides": [
+                {
+                    "background": "Tutorials/Sit-22/01-02.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Agora que o tempo de avaliação foi concluído, retire o conjunto do trabalhador. ",
+                    "orientationRect": {
+                        "x": 0.5771046280860901,
+                        "y": 0.641139805316925,
+                        "width": 0.3822494149208069,
+                        "height": 0.29672354459762576
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.30245810747146609,
+                        "y": 0.04128450155258179,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.4403564929962158,
+                            "y": 0.28610602021217348,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        },
+                        {
+                            "id": "p2",
+                            "x": 0.4948583245277405,
+                            "y": 0.5639853477478027,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-22/01-02.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Agora que o tempo de avaliação foi concluído, retire o conjunto do trabalhador. ",
+                    "orientationRect": {
+                        "x": 0.5795164108276367,
+                        "y": 0.6523038744926453,
+                        "width": 0.3837989568710327,
+                        "height": 0.29084116220474245
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.09483547508716583,
+                            "y": 0.19469834864139558,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        },
+                        {
+                            "id": "p2",
+                            "x": 0.2058958113193512,
+                            "y": 0.19469834864139558,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-22/02.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.2929186522960663,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                }
+            ]
+        },
+        {
+            "id": "situacao_23",
+            "slides": [
+                {
+                    "background": "Tutorials/Sit-23/01.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Retire a capa de proteção; retire o amostrador de coleta, tampe-o e insira-o na caixa de isopor. ",
+                    "orientationRect": {
+                        "x": 0.3137153089046478,
+                        "y": 0.7964422106742859,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.519538402557373,
+                            "y": 0.45978063344955447,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-23/02-03.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Retire a capa de proteção; retire o amostrador de coleta, tampe-o e insira-o na caixa de isopor. ",
+                    "orientationRect": {
+                        "x": 0.3137153089046478,
+                        "y": 0.8017238974571228,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.5719835162162781,
+                            "y": 0.45063984394073489,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-23/02-03.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Retire a capa de proteção; retire o amostrador de coleta, tampe-o e insira-o na caixa de isopor. ",
+                    "orientationRect": {
+                        "x": 0.3137153089046478,
+                        "y": 0.805245041847229,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.5750685334205627,
+                            "y": 0.30621573328971865,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-23/04.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": 3.0,
+                    "orientationText": "Retire a capa de proteção; retire o amostrador de coleta, tampe-o e insira-o na caixa de isopor. ",
+                    "orientationRect": {
+                        "x": 0.311734676361084,
+                        "y": 0.7999633550643921,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-23/05.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Retire a capa de proteção; retire o amostrador de coleta, tampe-o e insira-o na caixa de isopor. ",
+                    "orientationRect": {
+                        "x": 0.31074434518814089,
+                        "y": 0.8017238974571228,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.6593921184539795,
+                            "y": 0.3190127909183502,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-23/06.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Retire a capa de proteção; retire o amostrador de coleta, tampe-o e insira-o na caixa de isopor. ",
+                    "orientationRect": {
+                        "x": 0.311734676361084,
+                        "y": 0.7964422106742859,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.10100548714399338,
+                            "y": 0.37385740876197817,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-23/07.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                }
+            ]
+        },
+        {
+            "id": "situacao_24",
+            "slides": [
+                {
+                    "background": "Tutorials/Sit-24/01-02.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Agora, retire novamente as tampas de proteção do amostrador representativo. ",
+                    "orientationRect": {
+                        "x": 0.411756694316864,
+                        "y": 0.8087661266326904,
+                        "width": 0.5475974082946777,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.5935786366462708,
+                            "y": 0.30621573328971865,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-24/01-02.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Agora, retire novamente as tampas de proteção do amostrador representativo. ",
+                    "orientationRect": {
+                        "x": 0.42760175466537478,
+                        "y": 0.8070056438446045,
+                        "width": 0.5287813544273377,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.613116979598999,
+                            "y": 0.487202912569046,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-24/03.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                }
+            ]
+        },
+        {
+            "id": "situacao_25",
+            "slides": [
+                {
+                    "background": "Tutorials/Sit-25/01-02.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Conecte o amostrador representativo na outra extremidade do tubo. A seta desenhada no tubo amostrador deve ser conectada apontando na direção do fluxo de ar. ",
+                    "orientationRect": {
+                        "x": 0.311734676361084,
+                        "y": 0.7348225712776184,
+                        "width": 0.6496000289916992,
+                        "height": 0.21008306741714478
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.36734461784362795,
+                            "y": 0.3336380124092102,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-25/01-02.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Conecte o amostrador representativo na outra extremidade do tubo. A seta desenhada no tubo amostrador deve ser conectada apontando na direção do fluxo de ar. ",
+                    "orientationRect": {
+                        "x": 0.31569594144821169,
+                        "y": 0.7207380533218384,
+                        "width": 0.6496000289916992,
+                        "height": 0.2153647541999817
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.4917733073234558,
+                            "y": 0.5457038283348084,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-25/03.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                }
+            ]
+        },
+        {
+            "id": "situacao_26",
+            "slides": [
+                {
+                    "background": "Tutorials/Sit-26/01-02.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Conecte a extremidade do tubo à porta de sucção do calibrador de vazão. ",
+                    "orientationRect": {
+                        "x": 0.31470561027526858,
+                        "y": 0.8034844994544983,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.33752286434173586,
+                            "y": 0.37751370668411257,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-26/01-02.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Conecte a extremidade do tubo à porta de sucção do calibrador de vazão. ",
+                    "orientationRect": {
+                        "x": 0.31074434518814089,
+                        "y": 0.8034844994544983,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.30358776450157168,
+                            "y": 0.5219378471374512,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-26/03.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                }
+            ]
+        },
+        {
+            "id": "situacao_27",
+            "slides": [
+                {
+                    "background": "Tutorials/Sit-27/01-02.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Conecte a extremidade do tubo à porta de sucção do calibrador de vazão. ",
+                    "orientationRect": {
+                        "x": 0.46622413396835329,
+                        "y": 0.7999633550643921,
+                        "width": 0.49709123373031618,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.042004771530628207,
+                        "y": 0.07473520934581757,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.5699268579483032,
+                            "y": 0.30438756942749026,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-27/01-02.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Conecte a extremidade do tubo à porta de sucção do calibrador de vazão. ",
+                    "orientationRect": {
+                        "x": 0.4721660017967224,
+                        "y": 0.8210901021957398,
+                        "width": 0.5060040950775147,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.04596602916717529,
+                        "y": 0.037763357162475589,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.7365173697471619,
+                            "y": 0.5658135414123535,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-27/03.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                }
+            ]
+        },
+        {
+            "id": "situacao_28",
+            "slides": [
+                {
+                    "background": "Tutorials/Sit-28/01.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Ligue o aferidor de vazão. Navegue até a função MEDIR e depois selecione a função SEQUENCIAL. ",
+                    "orientationRect": {
+                        "x": 0.35629895329475405,
+                        "y": 0.8158084750175476,
+                        "width": 0.6218711137771606,
+                        "height": 0.14494222402572633
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.03606286644935608,
+                        "y": 0.03072112798690796,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.34574955701828005,
+                            "y": 0.660877525806427,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-28/02.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Ligue o aferidor de vazão. Navegue até a função MEDIR e depois selecione a função SEQUENCIAL. ",
+                    "orientationRect": {
+                        "x": 0.3166862726211548,
+                        "y": 0.7982028126716614,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.07765616476535797,
+                        "y": 0.009594321250915528,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.6367687582969666,
+                            "y": 0.5164533853530884,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-28/02.png",
+                    "foreground": "Tutorials/Sit-28/foreground/01.png",
+                    "foregroundRect": {
+                        "x": 0.22722271084785462,
+                        "y": 0.39612674713134768,
+                        "width": 0.2613336443901062,
+                        "height": 0.26936617493629458
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Ligue o aferidor de vazão. Navegue até a função MEDIR e depois selecione a função SEQUENCIAL. ",
+                    "orientationRect": {
+                        "x": 0.3176765739917755,
+                        "y": 0.7982028126716614,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.15490087866783143,
+                        "y": 0.0060732364654541019,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.6377970576286316,
+                            "y": 0.5127970576286316,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-28/02.png",
+                    "foreground": "Tutorials/Sit-28/foreground/02.png",
+                    "foregroundRect": {
+                        "x": 0.22722271084785462,
+                        "y": 0.39084506034851076,
+                        "width": 0.25935301184654238,
+                        "height": 0.26760566234588625
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Ligue o aferidor de vazão. Navegue até a função MEDIR e depois selecione a função SEQUENCIAL. ",
+                    "orientationRect": {
+                        "x": 0.3127250075340271,
+                        "y": 0.7946816682815552,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.7066956162452698,
+                            "y": 0.5127970576286316,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-28/02.png",
+                    "foreground": "Tutorials/Sit-28/foreground/03.png",
+                    "foregroundRect": {
+                        "x": 0.22524207830429078,
+                        "y": 0.38908451795578005,
+                        "width": 0.25836268067359927,
+                        "height": 0.27640843391418459
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Ligue o aferidor de vazão. Navegue até a função MEDIR e depois selecione a função SEQUENCIAL. ",
+                    "orientationRect": {
+                        "x": 0.3137153089046478,
+                        "y": 0.7982028126716614,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.7077239751815796,
+                            "y": 0.5182815194129944,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-28/02.png",
+                    "foreground": "Tutorials/Sit-28/foreground/04.png",
+                    "foregroundRect": {
+                        "x": 0.22722271084785462,
+                        "y": 0.38908451795578005,
+                        "width": 0.2553917467594147,
+                        "height": 0.27288728952407839
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                }
+            ]
+        },
+        {
+            "id": "situacao_29",
+            "slides": [
+                {
+                    "background": "Tutorials/Sit-29/01.png",
+                    "foreground": "",
+                    "foregroundRect": {
+                        "x": 0.25,
+                        "y": 0.25,
+                        "width": 0.5,
+                        "height": 0.5
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Na tela da bomba, pressione duas vezes simultaneamente os botões SETA PARA CIMA e SETA PARA BAIXO.",
+                    "orientationRect": {
+                        "x": 0.3127250075340271,
+                        "y": 0.7964422106742859,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.7498857378959656,
+                            "y": 0.5511882901191711,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-29/01A.png",
+                    "foreground": "Tutorials/Sit-29/foreground/01.png",
+                    "foregroundRect": {
+                        "x": 0.3204382658004761,
+                        "y": 0.35196781158447268,
+                        "width": 0.38025492429733279,
+                        "height": 0.3318425416946411
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Na tela da bomba, pressione duas vezes simultaneamente os botões SETA PARA CIMA e SETA PARA BAIXO.",
+                    "orientationRect": {
+                        "x": 0.31074434518814089,
+                        "y": 0.8034844994544983,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.5133683681488037,
+                            "y": 0.351919561624527,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-29/02.png",
+                    "foreground": "Tutorials/Sit-29/foreground/02.png",
+                    "foregroundRect": {
+                        "x": 0.31741949915885928,
+                        "y": 0.34481215476989748,
+                        "width": 0.3842799663543701,
+                        "height": 0.3336315155029297
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": 3.0,
+                    "orientationText": "Na tela da bomba, pressione duas vezes simultaneamente os botões SETA PARA CIMA e SETA PARA BAIXO.",
+                    "orientationRect": {
+                        "x": 0.31470561027526858,
+                        "y": 0.7964422106742859,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-29/03.png",
+                    "foreground": "Tutorials/Sit-29/foreground/03.png",
+                    "foregroundRect": {
+                        "x": 0.22484347224235536,
+                        "y": 0.3966905176639557,
+                        "width": 0.2645348608493805,
+                        "height": 0.26744183897972109
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Na tela da bomba, pressione duas vezes simultaneamente os botões SETA PARA CIMA e SETA PARA BAIXO.",
+                    "orientationRect": {
+                        "x": 0.31470561027526858,
+                        "y": 0.8070056438446045,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.6369656324386597,
+                            "y": 0.5167286396026611,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-29/03.png",
+                    "foreground": "Tutorials/Sit-29/foreground/04.png",
+                    "foregroundRect": {
+                        "x": 0.22283095121383668,
+                        "y": 0.3895348906517029,
+                        "width": 0.26151609420776369,
+                        "height": 0.26923078298568728
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Agora volte para a tela do aferidor e acompanhe a sequência de valores",
+                    "orientationRect": {
+                        "x": 0.31470561027526858,
+                        "y": 0.805245041847229,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [
+                        {
+                            "id": "p1",
+                            "x": 0.6317378878593445,
+                            "y": 0.5092936754226685,
+                            "spriteIdle": "Points/idle",
+                            "spriteClicked": "Points/clicked"
+                        }
+                    ],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-29/03.png",
+                    "foreground": "Tutorials/Sit-29/foreground/05.png",
+                    "foregroundRect": {
+                        "x": 0.223837211728096,
+                        "y": 0.3913238048553467,
+                        "width": 0.25849732756614687,
+                        "height": 0.26565295457839968
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Agora volte para a tela do aferidor e acompanhe a sequência de valores",
+                    "orientationRect": {
+                        "x": 0.31470561027526858,
+                        "y": 0.7964422106742859,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-29/03.png",
+                    "foreground": "Tutorials/Sit-29/foreground/06.png",
+                    "foregroundRect": {
+                        "x": 0.22425176203250886,
+                        "y": 0.38732394576072695,
+                        "width": 0.2603433132171631,
+                        "height": 0.27288731932640078
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.31074434518814089,
+                        "y": 0.8034844994544983,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-29/03.png",
+                    "foreground": "Tutorials/Sit-29/foreground/07.png",
+                    "foregroundRect": {
+                        "x": 0.2262323945760727,
+                        "y": 0.38732394576072695,
+                        "width": 0.2603432834148407,
+                        "height": 0.27112677693367007
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-29/03.png",
+                    "foreground": "Tutorials/Sit-29/foreground/08.png",
+                    "foregroundRect": {
+                        "x": 0.22722271084785462,
+                        "y": 0.38908451795578005,
+                        "width": 0.25935301184654238,
+                        "height": 0.27288728952407839
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-29/03.png",
+                    "foreground": "Tutorials/Sit-29/foreground/09.png",
+                    "foregroundRect": {
+                        "x": 0.22722271084785462,
+                        "y": 0.39084506034851076,
+                        "width": 0.25836271047592165,
+                        "height": 0.27288734912872317
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-29/03.png",
+                    "foreground": "Tutorials/Sit-29/foreground/11.png",
+                    "foregroundRect": {
+                        "x": 0.22722271084785462,
+                        "y": 0.38908451795578005,
+                        "width": 0.2563820779323578,
+                        "height": 0.27288728952407839
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-29/03.png",
+                    "foreground": "Tutorials/Sit-29/foreground/13.png",
+                    "foregroundRect": {
+                        "x": 0.22722271084785462,
+                        "y": 0.38732394576072695,
+                        "width": 0.2553917467594147,
+                        "height": 0.26936617493629458
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-29/03.png",
+                    "foreground": "Tutorials/Sit-29/foreground/14.png",
+                    "foregroundRect": {
+                        "x": 0.22722271084785462,
+                        "y": 0.39436620473861697,
+                        "width": 0.2553917467594147,
+                        "height": 0.26408451795578005
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-29/03.png",
+                    "foreground": "Tutorials/Sit-29/foreground/15.png",
+                    "foregroundRect": {
+                        "x": 0.2262323945760727,
+                        "y": 0.38732394576072695,
+                        "width": 0.25836265087127688,
+                        "height": 0.26936617493629458
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                },
+                {
+                    "background": "Tutorials/Sit-29/03.png",
+                    "foreground": "Tutorials/Sit-29/foreground/05.png",
+                    "foregroundRect": {
+                        "x": 0.22524207830429078,
+                        "y": 0.39084506034851076,
+                        "width": 0.2603433132171631,
+                        "height": 0.26408451795578005
+                    },
+                    "fadeDuration": -1.0,
+                    "delay": -1.0,
+                    "orientationText": "Essa é a vazão média final da bomba. A variação com relação à vazão inicial foi de +0,95%, o que está dentro da tolerância máxima de ±5%. ",
+                    "orientationRect": {
+                        "x": 0.1720999926328659,
+                        "y": 0.039400000125169757,
+                        "width": 0.6496000289916992,
+                        "height": 0.1378999948501587
+                    },
+                    "complementaryText": "",
+                    "complementaryStyle": "short",
+                    "complementaryRect": {
+                        "x": 0.3084000051021576,
+                        "y": 0.7771999835968018,
+                        "width": 0.6585999727249146,
+                        "height": 0.18310000002384187
+                    },
+                    "clickPoints": [],
+                    "nextPanelId": "",
+                    "advanceAction": ""
+                }
+            ]
         }
     ]
 }
