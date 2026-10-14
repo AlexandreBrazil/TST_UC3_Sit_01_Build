@@ -2608,10 +2608,10 @@
                     "complementaryText": "Aviso! \nSe forem utilizados amostradores branco de campo, suas extremidades também deverão ser quebradas neste momento. Em seguida, tampe as extremidades e mantenha os amostradores em ambiente próximo ao ponto de coleta. ",
                     "complementaryStyle": "long",
                     "complementaryRect": {
-                        "x": 0.03804349899291992,
+                        "x": 0.02395584248006344,
                         "y": 0.04128451645374298,
-                        "width": 0.3586931824684143,
-                        "height": 0.36444494128227236
+                        "width": 0.38888099789619448,
+                        "height": 0.5129243731498718
                     },
                     "clickPoints": [
                         {
@@ -2646,10 +2646,10 @@
                     "complementaryText": "Aviso! \nSe forem utilizados amostradores branco de campo, suas extremidades também deverão ser quebradas neste momento. Em seguida, tampe as extremidades e mantenha os amostradores em ambiente próximo ao ponto de coleta. ",
                     "complementaryStyle": "long",
                     "complementaryRect": {
-                        "x": 0.029445219784975053,
+                        "x": 0.01938260719180107,
                         "y": 0.031038697808980943,
-                        "width": 0.42031803727149966,
-                        "height": 0.3556835353374481
+                        "width": 0.4676123559474945,
+                        "height": 0.39503952860832217
                     },
                     "clickPoints": [
                         {
@@ -2684,10 +2684,10 @@
                     "complementaryText": "Aviso! \nSe forem utilizados amostradores branco de campo, suas extremidades também deverão ser quebradas neste momento. Em seguida, tampe as extremidades e mantenha os amostradores em ambiente próximo ao ponto de coleta. ",
                     "complementaryStyle": "long",
                     "complementaryRect": {
-                        "x": 0.028140325099229814,
-                        "y": 0.04480563849210739,
-                        "width": 0.4130013585090637,
-                        "height": 0.34075671434402468
+                        "x": 0.018077712506055833,
+                        "y": 0.028705459088087083,
+                        "width": 0.45627060532569888,
+                        "height": 0.3890572786331177
                     },
                     "clickPoints": [
                         {
@@ -2722,10 +2722,10 @@
                     "complementaryText": "Aviso! \nSe forem utilizados amostradores branco de campo, suas extremidades também deverão ser quebradas neste momento. Em seguida, tampe as extremidades e mantenha os amostradores em ambiente próximo ao ponto de coleta. ",
                     "complementaryStyle": "long",
                     "complementaryRect": {
-                        "x": 0.031111259013414384,
-                        "y": 0.05712953209877014,
-                        "width": 0.40904009342193606,
-                        "height": 0.32391053438186648
+                        "x": 0.020042385905981065,
+                        "y": 0.044607169926166537,
+                        "width": 0.4502968192100525,
+                        "height": 0.3722110688686371
                     },
                     "clickPoints": [
                         {
@@ -3172,10 +3172,10 @@
                     "complementaryText": "Aviso! \nNeste tipo de avaliação, pode ser necessário configurar um atraso na bomba para início da medição. ",
                     "complementaryStyle": "long",
                     "complementaryRect": {
-                        "x": 0.009540440514683724,
+                        "x": 0.0,
                         "y": 0.04553629085421562,
-                        "width": 0.3094273507595062,
-                        "height": 0.29222342371940615
+                        "width": 0.3139364719390869,
+                        "height": 0.3852466940879822
                     },
                     "clickPoints": [
                         {
@@ -3384,9 +3384,9 @@
                     "orientationText": "Agora que o tempo de avaliação foi concluído, retire o conjunto do trabalhador. ",
                     "orientationRect": {
                         "x": 0.5771046280860901,
-                        "y": 0.641139805316925,
+                        "y": 0.7234296202659607,
                         "width": 0.3822494149208069,
-                        "height": 0.29672354459762576
+                        "height": 0.2144337296485901
                     },
                     "complementaryText": "",
                     "complementaryStyle": "short",
@@ -3429,9 +3429,9 @@
                     "orientationText": "Agora que o tempo de avaliação foi concluído, retire o conjunto do trabalhador. ",
                     "orientationRect": {
                         "x": 0.5795164108276367,
-                        "y": 0.6523038744926453,
+                        "y": 0.7220712900161743,
                         "width": 0.3837989568710327,
-                        "height": 0.29084116220474245
+                        "height": 0.22107374668121339
                     },
                     "complementaryText": "",
                     "complementaryStyle": "short",
