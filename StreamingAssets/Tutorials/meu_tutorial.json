@@ -8,6 +8,7 @@
             "slides": [
                 {
                     "background": "Tutorials/Sit-01/01.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.0,
@@ -46,6 +47,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-01/02.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.0,
@@ -84,6 +86,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-01/03.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.0,
@@ -143,6 +146,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-01/04.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.0,
@@ -178,6 +182,7 @@
             "slides": [
                 {
                     "background": "Tutorials/Sit-02/01.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.0,
@@ -216,6 +221,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-02/01.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -254,6 +260,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-02/01.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -292,6 +299,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-02/02.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -327,6 +335,7 @@
             "slides": [
                 {
                     "background": "Tutorials/Sit-03/01.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -365,6 +374,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-03/01.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -403,6 +413,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-03/02.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -438,6 +449,7 @@
             "slides": [
                 {
                     "background": "Tutorials/Sit-04/01.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -476,6 +488,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-04/01.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -514,6 +527,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-04/02.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -549,6 +563,7 @@
             "slides": [
                 {
                     "background": "Tutorials/Sit-05/01.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -587,6 +602,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-05/01.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -625,6 +641,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-05/02.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -660,6 +677,7 @@
             "slides": [
                 {
                     "background": "Tutorials/Sit-06/01.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -698,6 +716,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-06/01.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -736,6 +755,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-06/02.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -766,6 +786,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-06/03.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -801,6 +822,7 @@
             "slides": [
                 {
                     "background": "Tutorials/Sit-07/01.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -839,6 +861,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-07/02.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -877,6 +900,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-07/02.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-07/foreground/01.png",
                     "foregroundRect": {
                         "x": 0.32102665305137637,
@@ -907,6 +931,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-07/02.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-07/foreground/02.png",
                     "foregroundRect": {
                         "x": 0.32088103890419009,
@@ -937,6 +962,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-07/02.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-07/foreground/03.png",
                     "foregroundRect": {
                         "x": 0.3184257745742798,
@@ -972,6 +998,7 @@
             "slides": [
                 {
                     "background": "Tutorials/Sit-08/01.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -1010,6 +1037,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-08/02.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -1048,6 +1076,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-08/02.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-08/foreground/01.png",
                     "foregroundRect": {
                         "x": 0.21779964864253999,
@@ -1086,6 +1115,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-08/02.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-08/foreground/02.png",
                     "foregroundRect": {
                         "x": 0.22283095121383668,
@@ -1124,6 +1154,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-08/02.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-08/foreground/03.png",
                     "foregroundRect": {
                         "x": 0.21679338812828065,
@@ -1159,6 +1190,7 @@
             "slides": [
                 {
                     "background": "Tutorials/Sit-09/01.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-09/foreground/01.png",
                     "foregroundRect": {
                         "x": 0.22737659513950349,
@@ -1197,6 +1229,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-09/01.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-09/foreground/02.png",
                     "foregroundRect": {
                         "x": 0.220818430185318,
@@ -1232,6 +1265,7 @@
             "slides": [
                 {
                     "background": "Tutorials/Sit-10/01.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -1267,6 +1301,7 @@
             "slides": [
                 {
                     "background": "Tutorials/Sit-11/01.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -1305,6 +1340,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-11/02.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-11/foreground/01.png",
                     "foregroundRect": {
                         "x": 0.2206609696149826,
@@ -1343,6 +1379,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-11/02.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-11/foreground/02.png",
                     "foregroundRect": {
                         "x": 0.22673112154006959,
@@ -1381,6 +1418,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-11/02.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-11/foreground/03.png",
                     "foregroundRect": {
                         "x": 0.22875449061393739,
@@ -1419,6 +1457,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-11/02.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-11/foreground/04.png",
                     "foregroundRect": {
                         "x": 0.2257194221019745,
@@ -1457,6 +1496,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-11/02.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-11/foreground/05.png",
                     "foregroundRect": {
                         "x": 0.2257194221019745,
@@ -1495,6 +1535,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-11/02.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-11/foreground/06.png",
                     "foregroundRect": {
                         "x": 0.2247077375650406,
@@ -1533,6 +1574,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-11/02.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-11/foreground/07.png",
                     "foregroundRect": {
                         "x": 0.2247077375650406,
@@ -1563,6 +1605,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-11/02.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-11/foreground/08.png",
                     "foregroundRect": {
                         "x": 0.2247077375650406,
@@ -1593,6 +1636,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-11/02.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-11/foreground/09.png",
                     "foregroundRect": {
                         "x": 0.2247077375650406,
@@ -1623,6 +1667,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-11/02.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-11/foreground/10.png",
                     "foregroundRect": {
                         "x": 0.2247077375650406,
@@ -1653,6 +1698,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-11/02.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-11/foreground/11.png",
                     "foregroundRect": {
                         "x": 0.2247077375650406,
@@ -1683,6 +1729,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-11/02.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-11/foreground/12.png",
                     "foregroundRect": {
                         "x": 0.2247077375650406,
@@ -1713,6 +1760,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-11/02.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-11/foreground/13.png",
                     "foregroundRect": {
                         "x": 0.2247077375650406,
@@ -1743,6 +1791,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-11/02.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-11/foreground/14.png",
                     "foregroundRect": {
                         "x": 0.2247077375650406,
@@ -1773,6 +1822,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-11/02.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-11/foreground/15.png",
                     "foregroundRect": {
                         "x": 0.2247077375650406,
@@ -1803,6 +1853,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-11/02.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-11/foreground/16.png",
                     "foregroundRect": {
                         "x": 0.2247077375650406,
@@ -1838,6 +1889,7 @@
             "slides": [
                 {
                     "background": "Tutorials/Sit-12/01.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -1876,6 +1928,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-12/02.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-12/foreground/01.png",
                     "foregroundRect": {
                         "x": 0.32229313254356387,
@@ -1914,6 +1967,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-12/03.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-12/foreground/01.png",
                     "foregroundRect": {
                         "x": 0.3213028311729431,
@@ -1949,6 +2003,7 @@
             "slides": [
                 {
                     "background": "Tutorials/Sit-13/01.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-13/foreground/01-02-03-04.png",
                     "foregroundRect": {
                         "x": 0.3193221688270569,
@@ -1987,6 +2042,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-13/01.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-13/foreground/01-02-03-04.png",
                     "foregroundRect": {
                         "x": 0.3193221688270569,
@@ -2025,6 +2081,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-13/01.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-13/foreground/01-02-03-04.png",
                     "foregroundRect": {
                         "x": 0.3193221688270569,
@@ -2063,6 +2120,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-13/01.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-13/foreground/01-02-03-04.png",
                     "foregroundRect": {
                         "x": 0.32229313254356387,
@@ -2101,6 +2159,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-13/01.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-13/foreground/05.png",
                     "foregroundRect": {
                         "x": 0.31833186745643618,
@@ -2139,6 +2198,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-13/01.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-13/foreground/06.png",
                     "foregroundRect": {
                         "x": 0.3213028311729431,
@@ -2177,6 +2237,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-13/01.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-13/foreground/07.png",
                     "foregroundRect": {
                         "x": 0.3203125,
@@ -2215,6 +2276,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-13/02.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-13/foreground/08.png",
                     "foregroundRect": {
                         "x": 0.3213028311729431,
@@ -2253,6 +2315,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-13/01.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-13/foreground/09.png",
                     "foregroundRect": {
                         "x": 0.3193221688270569,
@@ -2288,6 +2351,7 @@
             "slides": [
                 {
                     "background": "Tutorials/Sit-14/01-03.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -2326,6 +2390,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-14/02.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-14/foreground/01.png",
                     "foregroundRect": {
                         "x": 0.22524207830429078,
@@ -2364,6 +2429,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-14/01-03.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -2402,6 +2468,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-14/04.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -2440,6 +2507,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-14/05.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -2478,6 +2546,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-14/06-07.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -2516,6 +2585,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-14/06-07.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -2554,6 +2624,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-14/08.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -2589,6 +2660,7 @@
             "slides": [
                 {
                     "background": "Tutorials/Sit-15/01.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -2627,6 +2699,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-15/02-03-04.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -2665,6 +2738,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-15/02-03-04.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -2703,6 +2777,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-15/02-03-04.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -2741,6 +2816,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-15/05.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -2776,6 +2852,7 @@
             "slides": [
                 {
                     "background": "Tutorials/Sit-16/01-02.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -2814,6 +2891,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-16/01-02.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -2852,6 +2930,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-16/03.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -2887,6 +2966,7 @@
             "slides": [
                 {
                     "background": "Tutorials/Sit-17/01-02.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -2925,6 +3005,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-17/01-02.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -2963,6 +3044,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-17/03.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -2998,6 +3080,7 @@
             "slides": [
                 {
                     "background": "Tutorials/Sit-18/01-02.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -3043,6 +3126,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-18/01-02.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -3088,6 +3172,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-18/03.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -3123,6 +3208,7 @@
             "slides": [
                 {
                     "background": "Tutorials/Sit-19/01.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -3153,6 +3239,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-19/02.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-19/foreground/01.png",
                     "foregroundRect": {
                         "x": 0.3214445412158966,
@@ -3191,6 +3278,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-19/03.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-19/foreground/02.png",
                     "foregroundRect": {
                         "x": 0.3204382658004761,
@@ -3226,6 +3314,7 @@
             "slides": [
                 {
                     "background": "Tutorials/Sit-20/01.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -3264,6 +3353,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-20/02-03.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -3302,6 +3392,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-20/02-03.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-20/foreground/01.png",
                     "foregroundRect": {
                         "x": 0.3606887459754944,
@@ -3337,6 +3428,7 @@
             "slides": [
                 {
                     "background": "Tutorials/Sit-21/01.png",
+                    "video": "Tutorials/Sit-21/Vedacao.mp4",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -3372,6 +3464,7 @@
             "slides": [
                 {
                     "background": "Tutorials/Sit-22/01-02.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -3417,6 +3510,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-22/01-02.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -3462,6 +3556,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-22/02.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -3497,6 +3592,7 @@
             "slides": [
                 {
                     "background": "Tutorials/Sit-23/01.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -3535,6 +3631,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-23/02-03.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -3573,6 +3670,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-23/02-03.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -3611,6 +3709,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-23/04.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -3641,6 +3740,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-23/05.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -3679,6 +3779,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-23/06.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -3717,6 +3818,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-23/07.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -3752,6 +3854,7 @@
             "slides": [
                 {
                     "background": "Tutorials/Sit-24/01-02.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -3790,6 +3893,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-24/01-02.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -3828,6 +3932,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-24/03.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -3863,6 +3968,7 @@
             "slides": [
                 {
                     "background": "Tutorials/Sit-25/01-02.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -3901,6 +4007,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-25/01-02.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -3939,6 +4046,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-25/03.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -3974,6 +4082,7 @@
             "slides": [
                 {
                     "background": "Tutorials/Sit-26/01-02.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -4012,6 +4121,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-26/01-02.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -4050,6 +4160,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-26/03.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -4085,6 +4196,7 @@
             "slides": [
                 {
                     "background": "Tutorials/Sit-27/01-02.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -4123,6 +4235,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-27/01-02.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -4161,6 +4274,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-27/03.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -4196,6 +4310,7 @@
             "slides": [
                 {
                     "background": "Tutorials/Sit-28/01.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -4234,6 +4349,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-28/02.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -4272,6 +4388,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-28/02.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-28/foreground/01.png",
                     "foregroundRect": {
                         "x": 0.22722271084785462,
@@ -4310,6 +4427,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-28/02.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-28/foreground/02.png",
                     "foregroundRect": {
                         "x": 0.22722271084785462,
@@ -4348,6 +4466,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-28/02.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-28/foreground/03.png",
                     "foregroundRect": {
                         "x": 0.22524207830429078,
@@ -4386,6 +4505,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-28/02.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-28/foreground/04.png",
                     "foregroundRect": {
                         "x": 0.22722271084785462,
@@ -4421,6 +4541,7 @@
             "slides": [
                 {
                     "background": "Tutorials/Sit-29/01.png",
+                    "video": "",
                     "foreground": "",
                     "foregroundRect": {
                         "x": 0.25,
@@ -4459,6 +4580,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-29/01A.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-29/foreground/01.png",
                     "foregroundRect": {
                         "x": 0.3204382658004761,
@@ -4497,6 +4619,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-29/02.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-29/foreground/02.png",
                     "foregroundRect": {
                         "x": 0.31741949915885928,
@@ -4527,6 +4650,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-29/03.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-29/foreground/03.png",
                     "foregroundRect": {
                         "x": 0.22484347224235536,
@@ -4565,6 +4689,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-29/03.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-29/foreground/04.png",
                     "foregroundRect": {
                         "x": 0.22283095121383668,
@@ -4603,6 +4728,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-29/03.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-29/foreground/05.png",
                     "foregroundRect": {
                         "x": 0.223837211728096,
@@ -4633,6 +4759,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-29/03.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-29/foreground/06.png",
                     "foregroundRect": {
                         "x": 0.22425176203250886,
@@ -4663,6 +4790,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-29/03.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-29/foreground/07.png",
                     "foregroundRect": {
                         "x": 0.2262323945760727,
@@ -4693,6 +4821,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-29/03.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-29/foreground/08.png",
                     "foregroundRect": {
                         "x": 0.22722271084785462,
@@ -4723,6 +4852,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-29/03.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-29/foreground/09.png",
                     "foregroundRect": {
                         "x": 0.22722271084785462,
@@ -4753,6 +4883,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-29/03.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-29/foreground/11.png",
                     "foregroundRect": {
                         "x": 0.22722271084785462,
@@ -4783,6 +4914,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-29/03.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-29/foreground/13.png",
                     "foregroundRect": {
                         "x": 0.22722271084785462,
@@ -4813,6 +4945,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-29/03.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-29/foreground/14.png",
                     "foregroundRect": {
                         "x": 0.22722271084785462,
@@ -4843,6 +4976,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-29/03.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-29/foreground/15.png",
                     "foregroundRect": {
                         "x": 0.2262323945760727,
@@ -4873,6 +5007,7 @@
                 },
                 {
                     "background": "Tutorials/Sit-29/03.png",
+                    "video": "",
                     "foreground": "Tutorials/Sit-29/foreground/05.png",
                     "foregroundRect": {
                         "x": 0.22524207830429078,
