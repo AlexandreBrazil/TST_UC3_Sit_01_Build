@@ -1,7 +1,7 @@
 {
     "id": "tutorial_01",
     "defaultFadeDuration": 0.0,
-    "defaultDelay": 1.0,
+    "defaultDelay": 0.0,
     "situations": [
         {
             "id": "situacao_01",
@@ -17,7 +17,7 @@
                         "height": 0.0
                     },
                     "fadeDuration": 0.0,
-                    "delay": 1.2000000476837159,
+                    "delay": 0.0,
                     "orientationText": "Retire da caixa de isopor os amostradores fornecidos pelo laboratório de análises.",
                     "orientationRect": {
                         "x": 0.1396075338125229,
@@ -39,7 +39,8 @@
                             "x": 0.49642857909202578,
                             "y": 0.5873016119003296,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -57,7 +58,7 @@
                         "height": 0.0
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Retire os amostradores fornecidos pelo laboratório de análises químicas de dentro da caixa de isopor. ",
                     "orientationRect": {
                         "x": 0.16641324758529664,
@@ -79,7 +80,8 @@
                             "x": 0.4982142746448517,
                             "y": 0.5333333015441895,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -97,7 +99,7 @@
                         "height": 0.0
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.41880589723587038,
@@ -119,28 +121,32 @@
                             "x": 0.7285714149475098,
                             "y": 0.24761903285980225,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         },
                         {
                             "id": "p2",
                             "x": 0.8142856955528259,
                             "y": 0.37142854928970339,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         },
                         {
                             "id": "p3",
                             "x": 0.8142856955528259,
                             "y": 0.47301584482192995,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         },
                         {
                             "id": "p4",
                             "x": 0.7482143044471741,
                             "y": 0.48253965377807619,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -158,7 +164,7 @@
                         "height": 0.0
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Considere os seguintes amostradores e suas funções:\nTCA 207/14R – Amostrador representativo usado para ajuste da vazão  \nTCA 208/14R – Amostrador usado para coleta ",
                     "orientationRect": {
                         "x": 0.49961811304092409,
@@ -194,8 +200,8 @@
                         "width": 0.0,
                         "height": 0.0
                     },
-                    "fadeDuration": 2.0,
-                    "delay": -1.0,
+                    "fadeDuration": 0.699999988079071,
+                    "delay": 0.0,
                     "orientationText": "Rompa ambas as extremidades do tubo de vidro do amostrador representativo com o dispositivo de quebra. ",
                     "orientationRect": {
                         "x": 0.33280572295188906,
@@ -217,7 +223,8 @@
                             "x": 0.7272623181343079,
                             "y": 0.3135283291339874,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -235,7 +242,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Rompa ambas as extremidades do tubo de vidro do amostrador representativo com o dispositivo de quebra. ",
                     "orientationRect": {
                         "x": 0.253562867641449,
@@ -257,7 +264,8 @@
                             "x": 0.6419104337692261,
                             "y": 0.47806215286254885,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -275,7 +283,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Rompa ambas as extremidades do tubo de vidro do amostrador representativo com o dispositivo de quebra. ",
                     "orientationRect": {
                         "x": 0.3503015637397766,
@@ -297,7 +305,8 @@
                             "x": 0.22954756021499635,
                             "y": 0.46709322929382326,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -315,7 +324,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -351,8 +360,8 @@
                         "width": 0.5,
                         "height": 0.5
                     },
-                    "fadeDuration": 2.0,
-                    "delay": -1.0,
+                    "fadeDuration": 0.699999988079071,
+                    "delay": 0.0,
                     "orientationText": "Conecte o tubo flexível com suporte para amostrador à tubulação de entrada de ar da bomba de amostragem. ",
                     "orientationRect": {
                         "x": 0.2422541230916977,
@@ -374,7 +383,8 @@
                             "x": 0.556775689125061,
                             "y": 0.29626166820526125,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -392,7 +402,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Conecte o tubo flexível com suporte para amostrador à tubulação de entrada de ar da bomba de amostragem. ",
                     "orientationRect": {
                         "x": 0.40373146533966067,
@@ -414,7 +424,8 @@
                             "x": 0.8082879185676575,
                             "y": 0.6878057718276978,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -432,7 +443,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -468,8 +479,8 @@
                         "width": 0.5,
                         "height": 0.5
                     },
-                    "fadeDuration": 2.0,
-                    "delay": -1.0,
+                    "fadeDuration": 0.699999988079071,
+                    "delay": 0.0,
                     "orientationText": "Conecte o amostrador representativo na outra extremidade do tubo. A seta desenhada no tubo amostrador deve ser conectada apontando na direção do fluxo de ar. ",
                     "orientationRect": {
                         "x": 0.39840781688690188,
@@ -491,7 +502,8 @@
                             "x": 0.4136197566986084,
                             "y": 0.4195612370967865,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -509,7 +521,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Conecte o amostrador representativo na outra extremidade do tubo. A seta desenhada no tubo amostrador deve ser conectada apontando na direção do fluxo de ar. ",
                     "orientationRect": {
                         "x": 0.3973281979560852,
@@ -531,7 +543,8 @@
                             "x": 0.49280163645744326,
                             "y": 0.5438756942749023,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -549,7 +562,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -585,8 +598,8 @@
                         "width": 0.5,
                         "height": 0.5
                     },
-                    "fadeDuration": 2.0,
-                    "delay": -1.0,
+                    "fadeDuration": 0.699999988079071,
+                    "delay": 0.0,
                     "orientationText": "Conecte a outra extremidade do amostrador ao outro tubo flexível na extremidade que contém o adaptador. ",
                     "orientationRect": {
                         "x": 0.40058082342147829,
@@ -608,7 +621,8 @@
                             "x": 0.34266453981399538,
                             "y": 0.36106032133102419,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -626,7 +640,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Conecte a outra extremidade do amostrador ao outro tubo flexível na extremidade que contém o adaptador. ",
                     "orientationRect": {
                         "x": 0.3993004560470581,
@@ -648,7 +662,8 @@
                             "x": 0.30358776450157168,
                             "y": 0.46709322929382326,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -666,7 +681,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -702,8 +717,8 @@
                         "width": 0.5,
                         "height": 0.5
                     },
-                    "fadeDuration": 2.0,
-                    "delay": -1.0,
+                    "fadeDuration": 0.699999988079071,
+                    "delay": 0.0,
                     "orientationText": "Conecte a extremidade do tubo à porta de sucção do calibrador de vazão. ",
                     "orientationRect": {
                         "x": 0.30084121227264407,
@@ -725,7 +740,8 @@
                             "x": 0.5658135414123535,
                             "y": 0.30073127150535586,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -743,7 +759,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Conecte a extremidade do tubo à porta de sucção do calibrador de vazão. ",
                     "orientationRect": {
                         "x": 0.3028218150138855,
@@ -765,7 +781,8 @@
                             "x": 0.7334323525428772,
                             "y": 0.5694698095321655,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -783,7 +800,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Conecte a extremidade do tubo à porta de sucção do calibrador de vazão. ",
                     "orientationRect": {
                         "x": 0.31470564007759097,
@@ -815,7 +832,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.31965720653533938,
@@ -851,8 +868,8 @@
                         "width": 0.5,
                         "height": 0.5
                     },
-                    "fadeDuration": 2.0,
-                    "delay": -1.0,
+                    "fadeDuration": 0.699999988079071,
+                    "delay": 0.0,
                     "orientationText": "Ligue a bomba pressionando o botão por meio segundo. ",
                     "orientationRect": {
                         "x": 0.32404541969299319,
@@ -874,7 +891,8 @@
                             "x": 0.7561570405960083,
                             "y": 0.5483271479606628,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.5
                         }
                     ],
                     "nextPanelId": "",
@@ -892,7 +910,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Ligue a bomba pressionando o botão por meio segundo. ",
                     "orientationRect": {
                         "x": 0.3731115162372589,
@@ -914,7 +932,8 @@
                             "x": 0.5041821599006653,
                             "y": 0.17472119629383088,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.5
                         }
                     ],
                     "nextPanelId": "",
@@ -932,7 +951,7 @@
                         "height": 0.32463327050209048
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.5,
                     "orientationText": "Ligue a bomba pressionando o botão por meio segundo. ",
                     "orientationRect": {
                         "x": 0.3922916352748871,
@@ -964,7 +983,7 @@
                         "height": 0.3100000023841858
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.5,
                     "orientationText": "Ligue a bomba pressionando o botão por meio segundo. ",
                     "orientationRect": {
                         "x": 0.3933945894241333,
@@ -996,7 +1015,7 @@
                         "height": 0.31252235174179079
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.5,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.2596447169780731,
@@ -1032,8 +1051,8 @@
                         "width": 0.5,
                         "height": 0.5
                     },
-                    "fadeDuration": 2.0,
-                    "delay": -1.0,
+                    "fadeDuration": 0.699999988079071,
+                    "delay": 0.0,
                     "orientationText": "Ligue o calibrador/aferidor de vazão, navegue até a função MEDIR e, em seguida, selecione a opção ÚNICA. \n ",
                     "orientationRect": {
                         "x": 0.38717350363731387,
@@ -1055,7 +1074,8 @@
                             "x": 0.35362452268600466,
                             "y": 0.6635687947273254,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -1073,7 +1093,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Ligue o calibrador/aferidor de vazão, navegue até a função MEDIR e, em seguida, selecione a opção ÚNICA. ",
                     "orientationRect": {
                         "x": 0.3805558681488037,
@@ -1095,7 +1115,8 @@
                             "x": 0.738382875919342,
                             "y": 0.3921933174133301,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -1113,7 +1134,7 @@
                         "height": 0.28533095121383669
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Ligue o calibrador/aferidor de vazão, navegue até a função MEDIR e, em seguida, selecione a opção ÚNICA. ",
                     "orientationRect": {
                         "x": 0.38165879249572756,
@@ -1135,7 +1156,8 @@
                             "x": 0.640102207660675,
                             "y": 0.5148698687553406,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -1153,7 +1175,7 @@
                         "height": 0.26923078298568728
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Ligue o calibrador/aferidor de vazão, navegue até a função MEDIR e, em seguida, selecione a opção ÚNICA. ",
                     "orientationRect": {
                         "x": 0.39158526062965395,
@@ -1175,7 +1197,8 @@
                             "x": 0.6380111575126648,
                             "y": 0.5130111575126648,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -1193,7 +1216,7 @@
                         "height": 0.2692307233810425
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -1229,8 +1252,8 @@
                         "width": 0.25628429651260378,
                         "height": 0.29341864585876467
                     },
-                    "fadeDuration": 2.0,
-                    "delay": -1.0,
+                    "fadeDuration": 0.0,
+                    "delay": 0.0,
                     "orientationText": "Inicie o processo de medição para fins de ajuste de vazão. ",
                     "orientationRect": {
                         "x": 0.31195372343063357,
@@ -1252,7 +1275,8 @@
                             "x": 0.6379514932632446,
                             "y": 0.5095056891441345,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -1270,7 +1294,7 @@
                         "height": 0.2745974659919739
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -1306,8 +1330,8 @@
                         "width": 0.5,
                         "height": 0.5
                     },
-                    "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "fadeDuration": 0.699999988079071,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -1344,7 +1368,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Acesse a função de medição de vazão sequencial e realize um conjunto de 10 leituras. ",
                     "orientationRect": {
                         "x": 0.3147483766078949,
@@ -1366,7 +1390,8 @@
                             "x": 0.3485981225967407,
                             "y": 0.65887850522995,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -1384,7 +1409,7 @@
                         "height": 0.28956836462020876
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Acesse a função de medição de vazão sequencial e realize um conjunto de 10 leituras. ",
                     "orientationRect": {
                         "x": 0.30867820978164675,
@@ -1406,7 +1431,8 @@
                             "x": 0.7060747742652893,
                             "y": 0.5112149715423584,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -1424,7 +1450,7 @@
                         "height": 0.2751798629760742
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Acesse a função de medição de vazão sequencial e realize um conjunto de 10 leituras. ",
                     "orientationRect": {
                         "x": 0.3127250075340271,
@@ -1446,7 +1472,8 @@
                             "x": 0.6366822123527527,
                             "y": 0.5149532556533814,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -1464,7 +1491,7 @@
                         "height": 0.2823740839958191
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Acesse a função de medição de vazão sequencial e realize um conjunto de 10 leituras. ",
                     "orientationRect": {
                         "x": 0.3137366771697998,
@@ -1486,7 +1513,8 @@
                             "x": 0.7123831510543823,
                             "y": 0.5112149715423584,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -1504,7 +1532,7 @@
                         "height": 0.2751798629760742
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Acesse a função de medição de vazão sequencial e realize um conjunto de 10 leituras. ",
                     "orientationRect": {
                         "x": 0.3127250075340271,
@@ -1526,7 +1554,8 @@
                             "x": 0.708531379699707,
                             "y": 0.5152091383934021,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -1544,7 +1573,7 @@
                         "height": 0.2823740839958191
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Acesse a função de medição de vazão sequencial e realize um conjunto de 10 leituras. ",
                     "orientationRect": {
                         "x": 0.3127250075340271,
@@ -1566,7 +1595,8 @@
                             "x": 0.6377336382865906,
                             "y": 0.5112149715423584,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -1584,7 +1614,7 @@
                         "height": 0.28776973485946658
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Acesse a função de medição de vazão sequencial e realize um conjunto de 10 leituras. ",
                     "orientationRect": {
                         "x": 0.31437939405441286,
@@ -1606,7 +1636,8 @@
                             "x": 0.6366822123527527,
                             "y": 0.5149532556533814,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -1624,7 +1655,7 @@
                         "height": 0.298561155796051
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -1656,7 +1687,7 @@
                         "height": 0.298561155796051
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -1688,7 +1719,7 @@
                         "height": 0.298561155796051
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -1720,7 +1751,7 @@
                         "height": 0.298561155796051
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -1752,7 +1783,7 @@
                         "height": 0.298561155796051
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -1784,7 +1815,7 @@
                         "height": 0.298561155796051
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -1816,7 +1847,7 @@
                         "height": 0.298561155796051
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -1848,7 +1879,7 @@
                         "height": 0.298561155796051
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -1880,7 +1911,7 @@
                         "height": 0.298561155796051
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -1912,7 +1943,7 @@
                         "height": 0.298561155796051
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -1948,8 +1979,8 @@
                         "width": 0.5,
                         "height": 0.5
                     },
-                    "fadeDuration": 2.0,
-                    "delay": -1.0,
+                    "fadeDuration": 0.699999988079071,
+                    "delay": 0.0,
                     "orientationText": "Na bomba, pressione ao mesmo tempo os botões  SETA PARA CIMA e SETA PARA BAIXO para desligar a operação. ",
                     "orientationRect": {
                         "x": 0.31074434518814089,
@@ -1971,7 +2002,8 @@
                             "x": 0.7519423961639404,
                             "y": 0.5566727519035339,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -1989,7 +2021,7 @@
                         "height": 0.34859153628349306
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Na bomba, pressione ao mesmo tempo os botões  SETA PARA CIMA e SETA PARA BAIXO para desligar a operação. ",
                     "orientationRect": {
                         "x": 0.31074434518814089,
@@ -2011,7 +2043,8 @@
                             "x": 0.509255051612854,
                             "y": 0.3555758595466614,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -2029,7 +2062,7 @@
                         "height": 0.3274647891521454
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -2065,8 +2098,8 @@
                         "width": 0.3831426203250885,
                         "height": 0.320422500371933
                     },
-                    "fadeDuration": 2.0,
-                    "delay": -1.0,
+                    "fadeDuration": 0.699999988079071,
+                    "delay": 0.0,
                     "orientationText": "Acesse a configuração da bomba e ajuste o tempo para 1 min. Depois disso, saia da função de configuração. ",
                     "orientationRect": {
                         "x": 0.31569594144821169,
@@ -2088,7 +2121,8 @@
                             "x": 0.5041133165359497,
                             "y": 0.17641681432724,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -2106,7 +2140,7 @@
                         "height": 0.320422500371933
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Acesse a configuração da bomba e ajuste o tempo para 1 min. Depois disso, saia da função de configuração. ",
                     "orientationRect": {
                         "x": 0.3127250075340271,
@@ -2128,7 +2162,8 @@
                             "x": 0.3827696442604065,
                             "y": 0.1727605164051056,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -2146,7 +2181,7 @@
                         "height": 0.3362675905227661
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Acesse a configuração da bomba e ajuste o tempo para 1 min. Depois disso, saia da função de configuração. ",
                     "orientationRect": {
                         "x": 0.311734676361084,
@@ -2168,7 +2203,8 @@
                             "x": 0.6285420656204224,
                             "y": 0.18190127611160279,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -2186,7 +2222,7 @@
                         "height": 0.327464759349823
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Acesse a configuração da bomba e ajuste o tempo para 1 min. Depois disso, saia da função de configuração. ",
                     "orientationRect": {
                         "x": 0.311734676361084,
@@ -2208,7 +2244,8 @@
                             "x": 0.5061700344085693,
                             "y": 0.1727605164051056,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -2226,7 +2263,7 @@
                         "height": 0.3239436149597168
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Acesse a configuração da bomba e ajuste o tempo para 1 min. Depois disso, saia da função de configuração. ",
                     "orientationRect": {
                         "x": 0.3127250075340271,
@@ -2248,7 +2285,8 @@
                             "x": 0.5061700344085693,
                             "y": 0.1727605164051056,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -2266,7 +2304,7 @@
                         "height": 0.32394367456436159
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Acesse a configuração da bomba e ajuste o tempo para 1 min. Depois disso, saia da função de configuração. ",
                     "orientationRect": {
                         "x": 0.31470561027526858,
@@ -2288,7 +2326,8 @@
                             "x": 0.5061700344085693,
                             "y": 0.17641681432724,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -2306,7 +2345,7 @@
                         "height": 0.3292253315448761
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Acesse a configuração da bomba e ajuste o tempo para 1 min. Depois disso, saia da função de configuração. ",
                     "orientationRect": {
                         "x": 0.3127250075340271,
@@ -2328,7 +2367,8 @@
                             "x": 0.6295703649520874,
                             "y": 0.17641681432724,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -2346,7 +2386,7 @@
                         "height": 0.3221830725669861
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Acesse a configuração da bomba e ajuste o tempo para 1 min. Depois disso, saia da função de configuração. ",
                     "orientationRect": {
                         "x": 0.3137153089046478,
@@ -2368,7 +2408,8 @@
                             "x": 0.510283350944519,
                             "y": 0.36106032133102419,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -2386,7 +2427,7 @@
                         "height": 0.3257041871547699
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -2422,8 +2463,8 @@
                         "width": 0.5,
                         "height": 0.5
                     },
-                    "fadeDuration": 2.0,
-                    "delay": -1.0,
+                    "fadeDuration": 0.699999988079071,
+                    "delay": 0.0,
                     "orientationText": "Desligue o aferidor de vazão, retire o amostrador representativo e tampe suas extremidades.  ",
                     "orientationRect": {
                         "x": 0.311734676361084,
@@ -2445,7 +2486,8 @@
                             "x": 0.35603290796279909,
                             "y": 0.664533793926239,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -2463,7 +2505,7 @@
                         "height": 0.2852112650871277
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Desligue o aferidor de vazão, retire o amostrador representativo e tampe suas extremidades.  ",
                     "orientationRect": {
                         "x": 0.311734676361084,
@@ -2485,7 +2527,8 @@
                             "x": 0.7396023869514465,
                             "y": 0.39031079411506655,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -2503,7 +2546,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Desligue o aferidor de vazão, retire o amostrador representativo e tampe suas extremidades.  ",
                     "orientationRect": {
                         "x": 0.3127250075340271,
@@ -2525,7 +2568,8 @@
                             "x": 0.33238115906715395,
                             "y": 0.18921388685703278,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -2543,7 +2587,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Desligue o aferidor de vazão, retire o amostrador representativo e tampe suas extremidades.  ",
                     "orientationRect": {
                         "x": 0.3077734112739563,
@@ -2565,7 +2609,8 @@
                             "x": 0.4866316318511963,
                             "y": 0.3427788019180298,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -2583,7 +2628,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Desligue o aferidor de vazão, retire o amostrador representativo e tampe suas extremidades.  ",
                     "orientationRect": {
                         "x": 0.3137153089046478,
@@ -2605,7 +2650,8 @@
                             "x": 0.36837294697761538,
                             "y": 0.3409506380558014,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -2623,7 +2669,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Desligue o aferidor de vazão, retire o amostrador representativo e tampe suas extremidades.  ",
                     "orientationRect": {
                         "x": 0.3137153089046478,
@@ -2645,7 +2691,8 @@
                             "x": 0.5534734725952148,
                             "y": 0.4140767753124237,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -2663,7 +2710,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Desligue o aferidor de vazão, retire o amostrador representativo e tampe suas extremidades.  ",
                     "orientationRect": {
                         "x": 0.31470561027526858,
@@ -2685,7 +2732,8 @@
                             "x": 0.5688985586166382,
                             "y": 0.29707494378089907,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -2703,7 +2751,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -2739,8 +2787,8 @@
                         "width": 0.5,
                         "height": 0.5
                     },
-                    "fadeDuration": 2.0,
-                    "delay": -1.0,
+                    "fadeDuration": 0.699999988079071,
+                    "delay": 0.0,
                     "orientationText": "Rompa ambas as extremidades do duto de vidro do amostrador que será usado na coleta, utilizando o dispositivo de quebra.",
                     "orientationRect": {
                         "x": 0.31866687536239626,
@@ -2762,7 +2810,8 @@
                             "x": 0.7786791324615479,
                             "y": 0.29159048199653628,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -2780,7 +2829,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Rompa ambas as extremidades do duto de vidro do amostrador que será usado na coleta, utilizando o dispositivo de quebra.",
                     "orientationRect": {
                         "x": 0.31470561027526858,
@@ -2802,7 +2851,8 @@
                             "x": 0.725205659866333,
                             "y": 0.3117001950740814,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -2820,7 +2870,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Rompa ambas as extremidades do duto de vidro do amostrador que será usado na coleta, utilizando o dispositivo de quebra.",
                     "orientationRect": {
                         "x": 0.3127250075340271,
@@ -2842,7 +2892,8 @@
                             "x": 0.6460237503051758,
                             "y": 0.47806215286254885,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -2860,7 +2911,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Rompa ambas as extremidades do duto de vidro do amostrador que será usado na coleta, utilizando o dispositivo de quebra.",
                     "orientationRect": {
                         "x": 0.3137153089046478,
@@ -2882,7 +2933,8 @@
                             "x": 0.223377525806427,
                             "y": 0.46526506543159487,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -2900,7 +2952,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -2936,8 +2988,8 @@
                         "width": 0.5,
                         "height": 0.5
                     },
-                    "fadeDuration": 2.0,
-                    "delay": -1.0,
+                    "fadeDuration": 0.699999988079071,
+                    "delay": 0.0,
                     "orientationText": "Conecte o amostrador representativo na outra extremidade do tubo. A seta desenhada no tubo amostrador deve ser conectada apontando na direção do fluxo de ar.  ",
                     "orientationRect": {
                         "x": 0.31866690516471865,
@@ -2959,7 +3011,8 @@
                             "x": 0.3704296052455902,
                             "y": 0.3482632637023926,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -2977,7 +3030,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Conecte o amostrador representativo na outra extremidade do tubo. A seta desenhada no tubo amostrador deve ser conectada apontando na direção do fluxo de ar.  ",
                     "orientationRect": {
                         "x": 0.32857006788253786,
@@ -2999,7 +3052,8 @@
                             "x": 0.4917733073234558,
                             "y": 0.5420475602149963,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -3017,7 +3071,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -3053,8 +3107,8 @@
                         "width": 0.5,
                         "height": 0.5
                     },
-                    "fadeDuration": 2.0,
-                    "delay": -1.0,
+                    "fadeDuration": 0.699999988079071,
+                    "delay": 0.0,
                     "orientationText": "Conecte a tampa do suporte sobre o amostrador. ",
                     "orientationRect": {
                         "x": 0.563275158405304,
@@ -3076,7 +3130,8 @@
                             "x": 0.6141453385353088,
                             "y": 0.19835466146469117,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -3094,7 +3149,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Conecte a tampa do suporte sobre o amostrador. ",
                     "orientationRect": {
                         "x": 0.5513913631439209,
@@ -3116,7 +3171,8 @@
                             "x": 0.6953839063644409,
                             "y": 0.3171846568584442,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -3134,7 +3190,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -3170,8 +3226,8 @@
                         "width": 0.5,
                         "height": 0.5
                     },
-                    "fadeDuration": 2.0,
-                    "delay": -1.0,
+                    "fadeDuration": 0.699999988079071,
+                    "delay": 0.0,
                     "orientationText": "Fixe a bomba de amostragem na cintura do trabalhador e posicione o amostrador, especificamente o ponto de ingresso de ar, na zona respiratória do empregado.",
                     "orientationRect": {
                         "x": 0.5862544178962708,
@@ -3193,14 +3249,16 @@
                             "x": 0.10100548714399338,
                             "y": 0.21297988295555116,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         },
                         {
                             "id": "p2",
                             "x": 0.21309415996074677,
                             "y": 0.20383912324905396,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -3218,7 +3276,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Fixe a bomba de amostragem na cintura do trabalhador e posicione o amostrador, especificamente o ponto de ingresso de ar, na zona respiratória do empregado.",
                     "orientationRect": {
                         "x": 0.582832932472229,
@@ -3240,14 +3298,16 @@
                             "x": 0.48457494378089907,
                             "y": 0.5987203121185303,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         },
                         {
                             "id": "p2",
                             "x": 0.4568098783493042,
                             "y": 0.2659963369369507,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -3265,7 +3325,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.32460880279541018,
@@ -3301,8 +3361,8 @@
                         "width": 0.5,
                         "height": 0.5
                     },
-                    "fadeDuration": 2.0,
-                    "delay": 2.0,
+                    "fadeDuration": 0.699999988079071,
+                    "delay": 0.0,
                     "orientationText": "Na tela da bomba, inicie a operação. ",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -3334,7 +3394,7 @@
                         "height": 0.3175313174724579
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Na tela da bomba, inicie a operação. ",
                     "orientationRect": {
                         "x": 0.5534436702728272,
@@ -3356,7 +3416,8 @@
                             "x": 0.5083643198013306,
                             "y": 0.35687732696533205,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -3374,7 +3435,7 @@
                         "height": 0.3246869444847107
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.0,
@@ -3410,8 +3471,8 @@
                         "width": 0.5,
                         "height": 0.5
                     },
-                    "fadeDuration": 2.0,
-                    "delay": -1.0,
+                    "fadeDuration": 0.699999988079071,
+                    "delay": 0.0,
                     "orientationText": "Ligue o termo-higro-barômetro e aguarde as leituras estabilizarem. Depois, meça a temperatura, a umidade relativa e a pressão atmosférica. Anote esses valores e desligue o aparelho. ",
                     "orientationRect": {
                         "x": 0.592717170715332,
@@ -3433,7 +3494,8 @@
                             "x": 0.5031366348266602,
                             "y": 0.6319702863693237,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -3451,7 +3513,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Ligue o termo-higro-barômetro e aguarde as leituras estabilizarem. Depois, meça a temperatura, a umidade relativa e a pressão atmosférica. Anote esses valores e desligue o aparelho. ",
                     "orientationRect": {
                         "x": 0.4206465184688568,
@@ -3473,7 +3535,8 @@
                             "x": 0.3860362470149994,
                             "y": 0.25464683771133425,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -3491,7 +3554,7 @@
                         "height": 0.25134170055389407
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -3527,8 +3590,8 @@
                         "width": 0.5,
                         "height": 0.5
                     },
-                    "fadeDuration": 2.0,
-                    "delay": -1.0,
+                    "fadeDuration": 0.699999988079071,
+                    "delay": 0.0,
                     "orientationText": "Aguarde um minuto.",
                     "orientationRect": {
                         "x": 0.7151328921318054,
@@ -3564,8 +3627,8 @@
                         "width": 0.5,
                         "height": 0.5
                     },
-                    "fadeDuration": 2.0,
-                    "delay": -1.0,
+                    "fadeDuration": 0.699999988079071,
+                    "delay": 0.0,
                     "orientationText": "Agora que o tempo de avaliação foi concluído, retire o conjunto do trabalhador. ",
                     "orientationRect": {
                         "x": 0.5771046280860901,
@@ -3587,14 +3650,16 @@
                             "x": 0.4403564929962158,
                             "y": 0.28610602021217348,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         },
                         {
                             "id": "p2",
                             "x": 0.4948583245277405,
                             "y": 0.5639853477478027,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -3612,7 +3677,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Agora que o tempo de avaliação foi concluído, retire o conjunto do trabalhador. ",
                     "orientationRect": {
                         "x": 0.5795164108276367,
@@ -3634,14 +3699,16 @@
                             "x": 0.09483547508716583,
                             "y": 0.19469834864139558,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         },
                         {
                             "id": "p2",
                             "x": 0.2058958113193512,
                             "y": 0.19469834864139558,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -3659,7 +3726,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.2929186522960663,
@@ -3695,8 +3762,8 @@
                         "width": 0.5,
                         "height": 0.5
                     },
-                    "fadeDuration": 2.0,
-                    "delay": -1.0,
+                    "fadeDuration": 0.699999988079071,
+                    "delay": 0.0,
                     "orientationText": "Retire a capa de proteção; retire o amostrador de coleta, tampe-o e insira-o na caixa de isopor. ",
                     "orientationRect": {
                         "x": 0.3137153089046478,
@@ -3718,7 +3785,8 @@
                             "x": 0.519538402557373,
                             "y": 0.45978063344955447,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -3736,7 +3804,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Retire a capa de proteção; retire o amostrador de coleta, tampe-o e insira-o na caixa de isopor. ",
                     "orientationRect": {
                         "x": 0.3137153089046478,
@@ -3758,7 +3826,8 @@
                             "x": 0.5719835162162781,
                             "y": 0.45063984394073489,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -3776,7 +3845,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Retire a capa de proteção; retire o amostrador de coleta, tampe-o e insira-o na caixa de isopor. ",
                     "orientationRect": {
                         "x": 0.3137153089046478,
@@ -3798,7 +3867,8 @@
                             "x": 0.5750685334205627,
                             "y": 0.30621573328971865,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -3816,7 +3886,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": 3.0,
+                    "delay": 0.0,
                     "orientationText": "Retire a capa de proteção; retire o amostrador de coleta, tampe-o e insira-o na caixa de isopor. ",
                     "orientationRect": {
                         "x": 0.311734676361084,
@@ -3848,7 +3918,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Retire a capa de proteção; retire o amostrador de coleta, tampe-o e insira-o na caixa de isopor. ",
                     "orientationRect": {
                         "x": 0.31074434518814089,
@@ -3870,7 +3940,8 @@
                             "x": 0.6593921184539795,
                             "y": 0.3190127909183502,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -3888,7 +3959,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Retire a capa de proteção; retire o amostrador de coleta, tampe-o e insira-o na caixa de isopor. ",
                     "orientationRect": {
                         "x": 0.311734676361084,
@@ -3910,7 +3981,8 @@
                             "x": 0.10100548714399338,
                             "y": 0.37385740876197817,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -3928,7 +4000,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -3964,8 +4036,8 @@
                         "width": 0.5,
                         "height": 0.5
                     },
-                    "fadeDuration": 2.0,
-                    "delay": -1.0,
+                    "fadeDuration": 0.699999988079071,
+                    "delay": 0.0,
                     "orientationText": "Agora, retire novamente as tampas de proteção do amostrador representativo. ",
                     "orientationRect": {
                         "x": 0.411756694316864,
@@ -3987,7 +4059,8 @@
                             "x": 0.5935786366462708,
                             "y": 0.30621573328971865,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -4005,7 +4078,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Agora, retire novamente as tampas de proteção do amostrador representativo. ",
                     "orientationRect": {
                         "x": 0.42760175466537478,
@@ -4027,7 +4100,8 @@
                             "x": 0.613116979598999,
                             "y": 0.487202912569046,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -4045,7 +4119,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -4081,8 +4155,8 @@
                         "width": 0.5,
                         "height": 0.5
                     },
-                    "fadeDuration": 2.0,
-                    "delay": -1.0,
+                    "fadeDuration": 0.699999988079071,
+                    "delay": 0.0,
                     "orientationText": "Conecte o amostrador representativo na outra extremidade do tubo. A seta desenhada no tubo amostrador deve ser conectada apontando na direção do fluxo de ar. ",
                     "orientationRect": {
                         "x": 0.311734676361084,
@@ -4104,7 +4178,8 @@
                             "x": 0.36734461784362795,
                             "y": 0.3336380124092102,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -4122,7 +4197,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Conecte o amostrador representativo na outra extremidade do tubo. A seta desenhada no tubo amostrador deve ser conectada apontando na direção do fluxo de ar. ",
                     "orientationRect": {
                         "x": 0.31569594144821169,
@@ -4144,7 +4219,8 @@
                             "x": 0.4917733073234558,
                             "y": 0.5457038283348084,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -4162,7 +4238,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -4198,8 +4274,8 @@
                         "width": 0.5,
                         "height": 0.5
                     },
-                    "fadeDuration": 2.0,
-                    "delay": -1.0,
+                    "fadeDuration": 0.699999988079071,
+                    "delay": 0.0,
                     "orientationText": "Conecte a extremidade do tubo à porta de sucção do calibrador de vazão. ",
                     "orientationRect": {
                         "x": 0.31470561027526858,
@@ -4221,7 +4297,8 @@
                             "x": 0.33752286434173586,
                             "y": 0.37751370668411257,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -4239,7 +4316,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Conecte a extremidade do tubo à porta de sucção do calibrador de vazão. ",
                     "orientationRect": {
                         "x": 0.31074434518814089,
@@ -4261,7 +4338,8 @@
                             "x": 0.30358776450157168,
                             "y": 0.5219378471374512,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -4279,7 +4357,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -4315,8 +4393,8 @@
                         "width": 0.5,
                         "height": 0.5
                     },
-                    "fadeDuration": 2.0,
-                    "delay": -1.0,
+                    "fadeDuration": 0.699999988079071,
+                    "delay": 0.0,
                     "orientationText": "Conecte a extremidade do tubo à porta de sucção do calibrador de vazão. ",
                     "orientationRect": {
                         "x": 0.46622413396835329,
@@ -4338,7 +4416,8 @@
                             "x": 0.5699268579483032,
                             "y": 0.30438756942749026,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -4355,8 +4434,8 @@
                         "width": 0.5,
                         "height": 0.5
                     },
-                    "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "fadeDuration": 0.699999988079071,
+                    "delay": 0.0,
                     "orientationText": "Conecte a extremidade do tubo à porta de sucção do calibrador de vazão. ",
                     "orientationRect": {
                         "x": 0.4721660017967224,
@@ -4378,7 +4457,8 @@
                             "x": 0.7365173697471619,
                             "y": 0.5658135414123535,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -4396,7 +4476,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -4432,8 +4512,8 @@
                         "width": 0.5,
                         "height": 0.5
                     },
-                    "fadeDuration": 2.0,
-                    "delay": -1.0,
+                    "fadeDuration": 0.699999988079071,
+                    "delay": 0.0,
                     "orientationText": "Ligue o aferidor de vazão. Navegue até a função MEDIR e depois selecione a função SEQUENCIAL. ",
                     "orientationRect": {
                         "x": 0.35629895329475405,
@@ -4455,7 +4535,8 @@
                             "x": 0.34574955701828005,
                             "y": 0.660877525806427,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -4473,7 +4554,7 @@
                         "height": 0.5
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Ligue o aferidor de vazão. Navegue até a função MEDIR e depois selecione a função SEQUENCIAL. ",
                     "orientationRect": {
                         "x": 0.3166862726211548,
@@ -4495,7 +4576,8 @@
                             "x": 0.6367687582969666,
                             "y": 0.5164533853530884,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -4513,7 +4595,7 @@
                         "height": 0.26936617493629458
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Ligue o aferidor de vazão. Navegue até a função MEDIR e depois selecione a função SEQUENCIAL. ",
                     "orientationRect": {
                         "x": 0.3176765739917755,
@@ -4535,7 +4617,8 @@
                             "x": 0.6377970576286316,
                             "y": 0.5127970576286316,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -4553,7 +4636,7 @@
                         "height": 0.26760566234588625
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Ligue o aferidor de vazão. Navegue até a função MEDIR e depois selecione a função SEQUENCIAL. ",
                     "orientationRect": {
                         "x": 0.3127250075340271,
@@ -4575,7 +4658,8 @@
                             "x": 0.7066956162452698,
                             "y": 0.5127970576286316,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -4593,7 +4677,7 @@
                         "height": 0.27640843391418459
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Ligue o aferidor de vazão. Navegue até a função MEDIR e depois selecione a função SEQUENCIAL. ",
                     "orientationRect": {
                         "x": 0.3137153089046478,
@@ -4615,7 +4699,8 @@
                             "x": 0.7077239751815796,
                             "y": 0.5182815194129944,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -4633,7 +4718,7 @@
                         "height": 0.27288728952407839
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -4669,8 +4754,8 @@
                         "width": 0.5,
                         "height": 0.5
                     },
-                    "fadeDuration": 2.0,
-                    "delay": -1.0,
+                    "fadeDuration": 0.699999988079071,
+                    "delay": 0.0,
                     "orientationText": "Na tela da bomba, pressione duas vezes simultaneamente os botões SETA PARA CIMA e SETA PARA BAIXO.",
                     "orientationRect": {
                         "x": 0.3127250075340271,
@@ -4692,7 +4777,8 @@
                             "x": 0.7498857378959656,
                             "y": 0.5511882901191711,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -4710,7 +4796,7 @@
                         "height": 0.3318425416946411
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Na tela da bomba, pressione duas vezes simultaneamente os botões SETA PARA CIMA e SETA PARA BAIXO.",
                     "orientationRect": {
                         "x": 0.31074434518814089,
@@ -4732,7 +4818,8 @@
                             "x": 0.5133683681488037,
                             "y": 0.351919561624527,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -4750,7 +4837,7 @@
                         "height": 0.3336315155029297
                     },
                     "fadeDuration": 0.0,
-                    "delay": 3.0,
+                    "delay": 0.0,
                     "orientationText": "Na tela da bomba, pressione duas vezes simultaneamente os botões SETA PARA CIMA e SETA PARA BAIXO.",
                     "orientationRect": {
                         "x": 0.31470561027526858,
@@ -4782,7 +4869,7 @@
                         "height": 0.26744183897972109
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Na tela da bomba, pressione duas vezes simultaneamente os botões SETA PARA CIMA e SETA PARA BAIXO.",
                     "orientationRect": {
                         "x": 0.31470561027526858,
@@ -4804,7 +4891,8 @@
                             "x": 0.6369656324386597,
                             "y": 0.5167286396026611,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -4822,7 +4910,7 @@
                         "height": 0.26923078298568728
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Agora volte para a tela do aferidor e acompanhe a sequência de valores",
                     "orientationRect": {
                         "x": 0.31470561027526858,
@@ -4844,7 +4932,8 @@
                             "x": 0.6317378878593445,
                             "y": 0.5092936754226685,
                             "spriteIdle": "Points/idle",
-                            "spriteClicked": "Points/clicked"
+                            "spriteClicked": "Points/clicked",
+                            "holdDuration": 0.0
                         }
                     ],
                     "nextPanelId": "",
@@ -4862,7 +4951,7 @@
                         "height": 0.26565295457839968
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Agora volte para a tela do aferidor e acompanhe a sequência de valores",
                     "orientationRect": {
                         "x": 0.31470561027526858,
@@ -4894,7 +4983,7 @@
                         "height": 0.27288731932640078
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.31074434518814089,
@@ -4926,7 +5015,7 @@
                         "height": 0.27112677693367007
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -4958,7 +5047,7 @@
                         "height": 0.27288728952407839
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -4990,7 +5079,7 @@
                         "height": 0.27288734912872317
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -5022,7 +5111,7 @@
                         "height": 0.27288728952407839
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -5054,7 +5143,7 @@
                         "height": 0.26936617493629458
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -5086,7 +5175,7 @@
                         "height": 0.26408451795578005
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -5118,7 +5207,7 @@
                         "height": 0.26936617493629458
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "",
                     "orientationRect": {
                         "x": 0.1720999926328659,
@@ -5150,7 +5239,7 @@
                         "height": 0.26408451795578005
                     },
                     "fadeDuration": 0.0,
-                    "delay": -1.0,
+                    "delay": 0.0,
                     "orientationText": "Essa é a vazão média final da bomba. A variação com relação à vazão inicial foi de +0,95%, o que está dentro da tolerância máxima de ±5%. ",
                     "orientationRect": {
                         "x": 0.1720999926328659,
